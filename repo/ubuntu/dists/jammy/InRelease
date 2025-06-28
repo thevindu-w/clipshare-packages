@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Suite: jammy
+Date: Sat, 28 Jun 2025 13:03:08 +0000
+MD5Sum:
+ 67971b4bcf8c9fcebd738d9feb939309             4774 main/binary-amd64/Packages
+ d30e2909c7f5ece9252c1b9bd18e5b41             1132 main/binary-amd64/Packages.gz
+SHA1:
+ 75bc8388a91cea68ee066cfe9ab401fa29337ad8             4774 main/binary-amd64/Packages
+ 65edd850f3d046554bac69a3f4903aa9f147fe05             1132 main/binary-amd64/Packages.gz
+SHA256:
+ 1ee317ba9010fb92397fd67c6780dc2d0b16f28ef2a3df025e5b86535b305eb3             4774 main/binary-amd64/Packages
+ 3de2f9e2ba0fe7517696fd86c14438831b4615f0063c389a58f1e8de80ff4f1b             1132 main/binary-amd64/Packages.gz
+SHA512:
+ b269d0b6487e27593ebe276cd9158cdb20e9ac4b4dcf54fdc05856dfb6b6706d18cbb52367e85e764f92bc3c2667c152bc985679a660208f0d78126a1fc7cdbd             4774 main/binary-amd64/Packages
+ 4e595cf35517af32d4f5b742d21190a3f99bf4bf8f8579f2a6764b78c323dbcfc2a9fa313664b8419aee0ecaecdf615764bec2dd8126e291f6156efb25195ae8             1132 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEja/jJySL8ZqZE7AhIV6G8jxrGigFAmhf6A0ACgkQIV6G8jxr
+GihxrQ/+Ipnx6BlFAbPQPnwOOcKebxLi5NmQBIY90Ij9T/hYjV2D5vi4Rmro6Xcq
+EuhnchCbdi8atg/sLiglrda4hBCh/b5GNHK88J9QhK0llLBfaYqTKZH308AuRJTx
+wzWTxTyd3GCjpp/YRYNIv0QI+5bFndInnX6Uwe1oYTkRNvxQh1BrxPcOtZb59Ikb
+QyPLDBfMnRBXQOmCrTpqpTNJxkjPwbMQyOcP0pBO4zVBH/ynlgsfjxm18PZGL7sE
++LqUxpdiVy6MbE4CYCYpVx08uxTP142gxG0TZjn8kzOTU+ThZ5S5drnpojstIl8v
+OsGMPUeKL6QFRgA1djmumRAax1BAsSYiau3d7C2/Vc5E9WjHtc3YnqXyE3jr2QYz
+Ju+AmxbDoaRF04EWYQPfaTinh/yZ6510nhQV+Q7GN9FwpQidrTuUq+ErLEfbq/Ka
+uLpALwlSk3/3EukXC7m1Pz25tqyNBuxOYXuHWKsSHCkHXm0GLrGAEafsr+4cYRWg
+9MrHuye1voRRUxa1VMyIpNtYxP5VrWhuC0geFXkjQ+ZPnNz0+1v4xb+8H3NvOqj1
+L/8WElvZW9QpWJjnUM86z+9+kTpmzf4fjZNFC/UGxkWQ/Ma+tfkOucigB3fm85IF
+XUHXIpcN3cG8q6jLPvq4Ka5y2E8BjFPo8sKh71hERHwAjEh3JV0=
+=Uuoy
+-----END PGP SIGNATURE-----

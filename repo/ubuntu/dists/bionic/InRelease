@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Suite: bionic
+Date: Sat, 28 Jun 2025 13:03:01 +0000
+MD5Sum:
+ 642828cccc5e989042c4ddfc6d80f160             4809 main/binary-amd64/Packages
+ 9c6e709ca0bf15906407c9564522297f             1139 main/binary-amd64/Packages.gz
+SHA1:
+ b2ec3ccad9a81b296860a3e3ba8305e18251fdb3             4809 main/binary-amd64/Packages
+ f6fed7d53a6392d357838fa7d330378176b77c0c             1139 main/binary-amd64/Packages.gz
+SHA256:
+ 93e5c0cd52694eb851265a151985a43a14dd2863296c12064ce04fe88ed87333             4809 main/binary-amd64/Packages
+ 5e33f5475c483935c88d4013606fa1666b63e8847f2c0e6d2e08176a42cece63             1139 main/binary-amd64/Packages.gz
+SHA512:
+ 762f5a8a8666e8e13e25c3b1e23ae5c857e227f50a1daed90aae3968a9a50f8ad6ec32a1ea18f4cd9dcccda994a87921cbf80baa21456057235cfc24d8cdd63f             4809 main/binary-amd64/Packages
+ a4e9bc60a0dc93f23e94b17dbe716bb4624420fcab6549a5f79355196ae16e20a0d7b60863275e42f0f650ff78b0467c17fe354259dd851f8d75c975eb495486             1139 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEja/jJySL8ZqZE7AhIV6G8jxrGigFAmhf6AoACgkQIV6G8jxr
+Giir6hAAitZVSScZggnnZnTNQvH3m+mF8OoWs0D01kChAZwX/mEJCXyRcMIKPvqD
+wPr+ROqi4U8UqMdM3603FUj3HvQFSehqlzy4h5NUcR6bfK0/rfD48PhJGykwlMvn
+ApK1/MBAr82MrOTJlQPoOeQ2/gu5yiPmNIKyp6GGW2jOIpPD7QgV8PinjfhdIRfn
+BO+C3RS58eD0hzQGNwHYr8gDGbzmnPJb7dAp1I7zVj3nsoEZRNGNGvcrs0XCWyTm
+3/pb6+K0h/YXyhWo34B4PSQhN5QnszMhwN9J5mp61fM71GtHmA+VqtaVzLZaQr5h
+4No9GvBPggmkkEqgiJyycmUyl2wdBrDh17yJjz1QrJfBQVscCIGBw95CFjcKPw7p
+SJhF7mdwtnIPCAXRBex+W2OZdNGe5eBtlhiOFR9wuPixhtJ+LfP0BIeLFk38KMN2
+1WeB0/+Ez+BXX0IJKDJgYBUCn/ur74/WlYNZzYssooW+SZGfaXfEcsS4FYR4xC1f
+EdaiOfIOqw5NJf61mUbJ0zjXKT8Ulb/TTrJFkRfbl6TUPb7/JSF6ZG34NUmG5Wvn
+hjHn3XB2nNOaoV5PS9M6xdNF3DOskUmdjQXRqygW40bG++DFeuudxEXhpCMAo6wK
+QyLMMNQyFjcWstlvpXYegjkh0golDXPj0Ny1mMZGkib8c8NMZSo=
+=XyBJ
+-----END PGP SIGNATURE-----

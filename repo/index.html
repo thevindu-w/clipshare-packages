@@ -1,0 +1,130 @@
+<html>
+
+<head>
+    <style type="text/css">
+        h1 {
+            text-align: center;
+        }
+
+        table {
+            margin: auto;
+            margin-bottom: 10pt;
+            border: 1px solid gray;
+            border-spacing: 0;
+        }
+
+        table th,
+        td {
+            padding: 4pt;
+            text-align: center;
+            vertical-align: middle;
+            border: 1px solid gray;
+        }
+
+        pre {
+            margin: 5pt;
+            padding: 5pt;
+            border: 1px groove lightgray;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 id="clipshare-package-repository">ClipShare - Package Repository</h1>
+    <p>This repository contains <code>deb</code> packages of ClipShare for Ubuntu-based Linux distributions.</p>
+
+    <h2 id="installation">Installation</h2>
+    <blockquote>
+        <p><strong>Note:</strong> It&#39;s advised to remove any previous installations of ClipShare (installed by other
+            means) to avoid conflicting with this installation.
+            If you have installed ClipShare with the installation scripts in the <a
+                href="https://github.com/thevindu-w/clip_share_server/releases">releases</a>, you can remove them by
+            deleting the following paths.</p>
+        <ul>
+            <li>~/.local/bin/clip_share</li>
+            <li>~/.config/systemd/user/clipshare.service</li>
+        </ul>
+    </blockquote>
+
+    <ol>
+        <li>
+            <p><strong>Identify the distribution</strong></p>
+            <p> The remaining steps require using the correct version codename for the OS distribution. The version
+                names
+                for the recent Ubuntu LTS versions are,</p>
+            <table>
+                <tr>
+                    <th style="text-align:center">Version</th>
+                    <th style="text-align:center">Name</th>
+                </tr>
+                <tr>
+                    <td>24.04</td>
+                    <td>noble</td>
+                </tr>
+                <tr>
+                    <td>22.04</td>
+                    <td>jammy</td>
+                </tr>
+                <tr>
+                    <td>20.04</td>
+                    <td>focal</td>
+                </tr>
+                <tr>
+                    <td>18.04</td>
+                    <td>bionic</td>
+                </tr>
+            </table>
+        </li>
+
+        <ul>
+            <li>For other non-LTS versions, use the last LTS version released before your Ubuntu version.</li>
+            <li>
+                <p>For other Ubuntu flavors (ex: Kubuntu, Xubuntu, Lubuntu, Ubuntu MATE) and other Ubuntu-based
+                    distributions
+                    (ex: Mint, Pop!_OS, Elementry OS, Zorin OS, etc), use the Ubuntu version name, which your distro is
+                    based
+                    on.
+                    For example, Linux Mint 22.1 <em>Xia</em> is based on Ubuntu <em>noble</em>.</p>
+            </li>
+        </ul>
+
+        <li>
+            <p><strong>Add the repository as a package source.</strong></p>
+            <p> Run the following commands to add the ClipShare repository to <code>apt</code>.</p>
+            <pre><code> CODENAME='noble'  # Replace 'noble' with your Ubuntu version name
+ echo "deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/clipshare-package.gpg] https://thevindu-w.github.io/clipshare-packages/ubuntu ${CODENAME} main" | \
+ sudo tee /etc/apt/sources.list.d/clipshare.list &gt;/dev/null
+</code></pre>
+        </li>
+
+        <li>
+            <p><strong>Add the GPG key</strong></p>
+            <p> Run the following command to add the ClipShare repository to <code>apt</code>.</p>
+            <pre><code> wget -qO - https://thevindu-w.github.io/clipshare-packages/clipshare-package.gpg | sudo tee /etc/apt/trusted.gpg.d/clipshare-package.gpg &gt;/dev/null
+</code></pre>
+            <p> Alternative command if the above fails</p>
+            <pre><code> sudo curl -L -o /etc/apt/trusted.gpg.d/clipshare-package.gpg https://thevindu-w.github.io/clipshare-packages/clipshare-package.gpg
+</code></pre>
+        </li>
+
+        <li>
+            <p><strong>Install/Update ClipShare</strong></p>
+            <p> Run the following commands to install or update ClipShare.</p>
+            <pre><code> sudo apt-get update
+ sudo apt-get install -y clipshare-server
+</code></pre>
+        </li>
+
+        <li>
+            <p><strong>Setup auto-start on login and Create configuration file</strong> (Optional)</p>
+            <p> Run the following command without <code>sudo</code> or root privileges.</p>
+            <pre><code> setup-clipshare
+</code></pre>
+        </li>
+    </ol>
+
+    <h2 id="updating">Updating</h2>
+    <p>You need to run only the 4<sup>th</sup> step above to update ClipShare.</p>
+</body>
+
+</html>

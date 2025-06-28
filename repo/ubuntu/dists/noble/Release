@@ -1,0 +1,14 @@
+Suite: noble
+Date: Sat, 28 Jun 2025 13:03:10 +0000
+MD5Sum:
+ aa622e4a440b117765d2413701010a03             4816 main/binary-amd64/Packages
+ bb05ea9eae345f43818f28bb652dc181             1131 main/binary-amd64/Packages.gz
+SHA1:
+ 059aff3046e9ba1fb0be7fbac963be656385f1e9             4816 main/binary-amd64/Packages
+ 3b59cb72c6a3d63e0335f784421c7bac79a9a8bd             1131 main/binary-amd64/Packages.gz
+SHA256:
+ 8ecf4118f2c83c5e0a80b4c142b5a1c077545af861b05bc3def3f920721a6ade             4816 main/binary-amd64/Packages
+ bf22e75d5b2d5861d16ac975bd8b6b8d14407fa00abd9c7b460c3a312eb726d8             1131 main/binary-amd64/Packages.gz
+SHA512:
+ f7a31f662d90de0551436b51e79aa95cc98ef834dbe23d5778813dc9961b28c35df32f887da1b9354329200b281440dcc15464c30db4d37233bdb6a9c852431a             4816 main/binary-amd64/Packages
+ d174475e52ff8cbd3082f472dfc9c9c48ef2b3441147cd282e8811a153e7a351744ff2ed1aa7a51b335ceb5866c9b42767f2fa8f4479645da802283a854d70c9             1131 main/binary-amd64/Packages.gz
