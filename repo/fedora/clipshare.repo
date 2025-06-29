@@ -1,0 +1,6 @@
+[clipshare]
+name=ClipShare $releasever - $basearch
+baseurl=https://thevindu-w.github.io/clipshare-packages/fedora/$releasever/Everything/$basearch/os/
+enabled=1
+gpgcheck=1
+gpgkey=https://thevindu-w.github.io/clipshare-packages/clipshare-rpm.gpg
