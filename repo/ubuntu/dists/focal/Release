@@ -1,14 +1,14 @@
 Suite: focal
-Date: Sat, 19 Jul 2025 20:00:42 +0000
+Date: Sun, 24 Aug 2025 16:58:49 +0000
 MD5Sum:
- de3ad6a47acc13def7d4fc7897d159c2             5472 main/binary-amd64/Packages
- 67dee8a9658aebbfdc773954fc9f93d7             1247 main/binary-amd64/Packages.gz
+ 02311ca54de65eab32df27db3ec6e8c0             6156 main/binary-amd64/Packages
+ 13b5b71bf3e60f66ec9a60e1240f459b             1352 main/binary-amd64/Packages.gz
 SHA1:
- 896e57dd0c7a1657d632f866e23af1eb0530d81e             5472 main/binary-amd64/Packages
- ba5f3dc4aa1572413619a0a232008ee82d2cd0d9             1247 main/binary-amd64/Packages.gz
+ 3db1a93690e6ddbe6ed7ce9708ee339f572c310a             6156 main/binary-amd64/Packages
+ 29f9b1221fafccdd14c77029ab07a2351c97ea0d             1352 main/binary-amd64/Packages.gz
 SHA256:
- bdb9ac46185898ee84fbd2c038afca570a5b41597049d1b0299c72b966cf1e45             5472 main/binary-amd64/Packages
- 18694cd156118f23221f16a79ab7acb313b24f1909a213545cc49d043c6ab6c6             1247 main/binary-amd64/Packages.gz
+ 700ba6df63eb11ba9e70f90824a471046e7d40fe47e33735a2cee9e525ba3fd8             6156 main/binary-amd64/Packages
+ 8828fb66b02be0800a16dc2163b265eeeb463524326815c3a3a7c71820a4e622             1352 main/binary-amd64/Packages.gz
 SHA512:
- e6a1d9f8cb1a4320f194e62c4c041df73531f6f084489aefe8a7fb8a860729ae25a5da3c11dba390522253b3a1e0eb284e152eb9cae6272a525866202dc4f4d8             5472 main/binary-amd64/Packages
- 292d0022c4c064f37f975ae0e6e6a2cb692baa2f072d445de76d913cac1b71cd80487cc4b72046b741bb53dd07ff07522fa3ee0b1d2302372128a630ad544066             1247 main/binary-amd64/Packages.gz
+ da2d00dd5636f8f53a66647767388eeee489ad7bbbcb2760bc19194c305551ab08c529c13946e2a1e186cb5d81d6bf9e37cc5abff88ad330251f53421d739dc6             6156 main/binary-amd64/Packages
+ 37747e4608c8ab8b4d524f20d5a0acccf54035f9337ad76788926fd668a1c412ab742efa810a9ddc0e4e69cd1296fc02a8e19e3807414ce9a6178548f0927f28             1352 main/binary-amd64/Packages.gz

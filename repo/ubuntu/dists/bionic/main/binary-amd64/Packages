@@ -134,3 +134,20 @@ Description: Share clipboard
  This is a simple and lightweight tool to securely share the
  clipboard contents across devices on a LAN (Local Area Network).
 
+Package: clipshare-server
+Version: 3.9.2-1bionic
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 32
+Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/bionic/main/binary-amd64/clipshare-server_3.9.2-1bionic_amd64.deb
+Size: 23284
+MD5sum: 2b339571204bf4c9d16af4c5db21d269
+SHA1: fde8432594c3cd79a4fcc86da9e58d071d0844b2
+SHA256: 682de1f08dbabfaf165197214451d88431ae06ab9e4027c1390f4e43738ef152
+Section: utils
+Priority: optional
+Description: Share clipboard
+ This is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+
