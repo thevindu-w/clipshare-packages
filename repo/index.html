@@ -20,6 +20,8 @@
         table th,
         td {
             padding: 4pt;
+            padding-left: 10pt;
+            padding-right: 10pt;
             text-align: center;
             vertical-align: middle;
             border: 1px solid gray;
@@ -27,7 +29,10 @@
 
         pre {
             margin: 5pt;
-            padding: 5pt;
+            margin-bottom: 10pt;
+            padding: 7pt;
+            padding-left: 10pt;
+            padding-right: 10pt;
             border: 1px groove lightgray;
         }
 
@@ -51,19 +56,22 @@
 
 <body>
     <h1 id="clipshare-package-repository">ClipShare - Package Repository</h1>
-    <p>This repository contains <code>deb</code> packages of ClipShare for Ubuntu-based and Fedora-based Linux
-        distributions.</p>
+    <p>This repository contains <code>deb</code> packages of ClipShare for Ubuntu-based and <code>rpm</code> packages
+        for Fedora-based Linux distributions.</p>
+    <p>The source of ClipShare is available at <a
+            href="https://github.com/thevindu-w/clip_share_server">https://github.com/thevindu-w/clip_share_server</a>.
+    </p>
 
     <blockquote>
         <p><strong>Note:</strong> It&#39;s advised to remove any previous installations of ClipShare (installed by
-            other
-            means) to avoid conflicting with this installation.
-            If you have installed ClipShare with the installation scripts in the <a
-                href="https://github.com/thevindu-w/clip_share_server/releases">releases</a>, you can remove them by
-            deleting the following paths.</p>
+            other means) to avoid conflicting with this installation. If you have installed ClipShare with the
+            installation scripts in the <a href="https://github.com/thevindu-w/clip_share_server/releases">releases</a>,
+            you can remove them by running the following command,
+        <pre><code>systemctl --user disable --now clipshare.service</code></pre>
+        and deleting the following paths.</p>
         <ul>
-            <li>~/.local/bin/clip_share</li>
-            <li>~/.config/systemd/user/clipshare.service</li>
+            <li><code>~/.local/bin/clip_share</code></li>
+            <li><code>~/.config/systemd/user/clipshare.service</code></li>
         </ul>
     </blockquote>
     <div id="toc">
@@ -79,9 +87,8 @@
         <ol>
             <li>
                 <p><strong>Identify the distribution</strong></p>
-                <p> The remaining steps require using the correct version codename for the OS distribution. The version
-                    names
-                    for the recent Ubuntu LTS versions are,</p>
+                <p>The remaining steps require using the correct version codename for the OS distribution. The version
+                    names for the recent Ubuntu LTS versions are,</p>
                 <table>
                     <tr>
                         <th style="text-align:center">Version</th>
@@ -110,46 +117,45 @@
                 <li>For other non-LTS versions, use the last LTS version released before your Ubuntu version.</li>
                 <li>
                     <p>For other Ubuntu flavors (ex: Kubuntu, Xubuntu, Lubuntu, Ubuntu MATE) and other Ubuntu-based
-                        distributions
-                        (ex: Mint, Pop!_OS, Elementry OS, Zorin OS, etc), use the Ubuntu version name, which your distro
-                        is
-                        based
-                        on.
-                        For example, Linux Mint 22.1 <em>Xia</em> is based on Ubuntu <em>noble</em>.</p>
+                        distributions (ex: Mint, Pop!_OS, Elementry OS, Zorin OS, etc), use the Ubuntu version name,
+                        which your distro is based on. For example, Linux Mint 22.1 <em>Xia</em> is based on Ubuntu
+                        <em>noble</em>.
+                    </p>
                 </li>
             </ul>
 
             <li>
                 <p><strong>Add the repository as a package source.</strong></p>
-                <p> Run the following commands to add the ClipShare repository to <code>apt</code>.</p>
-                <pre><code> CODENAME='noble'  # Replace 'noble' with your Ubuntu version name
- echo "deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/clipshare-package.gpg] https://thevindu-w.github.io/clipshare-packages/ubuntu ${CODENAME} main" | \
- sudo tee /etc/apt/sources.list.d/clipshare.list &gt;/dev/null
+                <p>Run the following commands to add the ClipShare repository to <code>apt</code>.</p>
+                <pre><code>CODENAME='noble'  # Replace 'noble' with your Ubuntu version name
+ARCH='amd64'      # Replace 'amd64' with 'arm64' for ARM-based machines
+echo "deb [arch=${ARCH} signed-by=/etc/apt/trusted.gpg.d/clipshare-package.gpg] https://thevindu-w.github.io/clipshare-packages/ubuntu ${CODENAME} main" | \
+sudo tee /etc/apt/sources.list.d/clipshare.list &gt;/dev/null
 </code></pre>
             </li>
 
             <li>
                 <p><strong>Add the GPG key</strong></p>
-                <p> Run the following command to add the ClipShare repository to <code>apt</code>.</p>
-                <pre><code> wget -qO - https://thevindu-w.github.io/clipshare-packages/clipshare-package.gpg | sudo tee /etc/apt/trusted.gpg.d/clipshare-package.gpg &gt;/dev/null
+                <p>Run the following command to add the ClipShare repository to <code>apt</code>.</p>
+                <pre><code>wget -qO - https://thevindu-w.github.io/clipshare-packages/clipshare-package.gpg | sudo tee /etc/apt/trusted.gpg.d/clipshare-package.gpg &gt;/dev/null
 </code></pre>
-                <p> Alternative command if the above fails</p>
-                <pre><code> sudo curl -L -o /etc/apt/trusted.gpg.d/clipshare-package.gpg https://thevindu-w.github.io/clipshare-packages/clipshare-package.gpg
+                <p>Alternative command if the above fails</p>
+                <pre><code>sudo curl -L -o /etc/apt/trusted.gpg.d/clipshare-package.gpg https://thevindu-w.github.io/clipshare-packages/clipshare-package.gpg
 </code></pre>
             </li>
 
             <li>
                 <p><strong>Install/Update ClipShare</strong></p>
-                <p> Run the following commands to install or update ClipShare.</p>
-                <pre><code> sudo apt-get update
- sudo apt-get install -y clipshare-server
+                <p>Run the following commands to install or update ClipShare.</p>
+                <pre><code>sudo apt-get update
+sudo apt-get install -y clipshare-server
 </code></pre>
             </li>
 
             <li>
                 <p><strong>Setup auto-start on login and Create configuration file</strong> (Optional)</p>
-                <p> Run the following command without <code>sudo</code> or root privileges.</p>
-                <pre><code> setup-clipshare
+                <p>Run the following command without <code>sudo</code> or root privileges.</p>
+                <pre><code>setup-clipshare
 </code></pre>
             </li>
         </ol>
@@ -163,17 +169,17 @@
         <ol>
             <li>
                 <p><strong>Add the repository as a package source.</strong></p>
-                <p> Run the following commands to add the ClipShare repository to <code>dnf</code>.</p>
+                <p>Run the following commands to add the ClipShare repository to <code>dnf</code>.</p>
                 <pre><code>dnf config-manager addrepo --from-repofile=https://thevindu-w.github.io/clipshare-packages/fedora/clipshare.repo
 </code></pre>
             </li>
 
             <li>
                 <p><strong>Install/Update ClipShare</strong></p>
-                <p> Run the following command to install ClipShare.</p>
+                <p>Run the following command to install ClipShare.</p>
                 <pre><code>sudo dnf install -y clipshare-server
 </code></pre>
-                <p> During the first run, the above command may ask to allow importing an OpenPGP key with the
+                <p>During the first run, the above command may ask to allow importing an OpenPGP key with the
                     fingerprint <code>F2A2E5443F016E36D0A3CFAD1C847A7379629521</code>. If the fingerprint is correct,
                     enter <code>y</code> to continue with the installation.
                 </p>
@@ -181,8 +187,8 @@
 
             <li>
                 <p><strong>Setup auto-start on login and Create configuration file</strong> (Optional)</p>
-                <p> Run the following command without <code>sudo</code> or root privileges.</p>
-                <pre><code> setup-clipshare
+                <p>Run the following command without <code>sudo</code> or root privileges.</p>
+                <pre><code>setup-clipshare
 </code></pre>
             </li>
         </ol>
