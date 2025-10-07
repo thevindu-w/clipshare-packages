@@ -14,13 +14,18 @@ jobs:
 
     steps:
     - name: Check out repository code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
+
+    - name: Build
+      run: |
+        chmod +x scripts/build.sh
+        ./scripts/build.sh
 
     - name: Upload static files as artifact
       id: deployment
       uses: actions/upload-pages-artifact@v3
       with:
-        path: repo/
+        path: deploy/
 
   deploy:
     runs-on: ubuntu-latest
