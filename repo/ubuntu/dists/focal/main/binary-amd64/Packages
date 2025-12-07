@@ -1,3 +1,75 @@
+Package: clipshare-client
+Version: 3.10.0-1focal
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 104
+Depends: libc6, libssl1.1, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
+Filename: dists/focal/main/binary-amd64/clipshare-client_3.10.0-1focal_amd64.deb
+Size: 25788
+MD5sum: 836af3ed3e952ebdcbf549283cadadbb
+SHA1: c8aec1b2fe6b0580bc4929f0ae6ba95deeca7208
+SHA256: 174aa46d5c294fe1f95f1281638eac2b6e7eabfa3d347f191a2bc824efcbccd6
+Section: utils
+Priority: optional
+Description: Share clipboard
+ ClipShare is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+ This package contains the desktop client.
+
+Package: clipshare-client
+Version: 3.11.0-1focal
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 108
+Depends: libc6, libssl1.1, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
+Filename: dists/focal/main/binary-amd64/clipshare-client_3.11.0-1focal_amd64.deb
+Size: 26536
+MD5sum: faaf0879763b3bedc5c484623fe4965c
+SHA1: 24710d561add8d3fbeadfa1ebe284d1d60ca6768
+SHA256: f0c8c50b1556df08d6386050e69b6fe36500f7f5fdf5887afdb04f02ba3134a8
+Section: utils
+Priority: optional
+Description: Share clipboard
+ ClipShare is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+ This package contains the desktop client.
+
+Package: clipshare-client
+Version: 3.11.1-1focal
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 108
+Depends: libc6, libssl1.1, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
+Filename: dists/focal/main/binary-amd64/clipshare-client_3.11.1-1focal_amd64.deb
+Size: 26508
+MD5sum: d10d270e9b8d23e33a474c03b2c0cb1b
+SHA1: a6119bb318a059293c2bd28d11973efd29717388
+SHA256: 85ff544a64f5c7b4e6522731df62bb33f4af06989725deae19c01fceb7de3821
+Section: utils
+Priority: optional
+Description: Share clipboard
+ ClipShare is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+ This package contains the desktop client.
+
+Package: clipshare-client
+Version: 3.12.0-1focal
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 108
+Depends: libc6, libssl1.1, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
+Filename: dists/focal/main/binary-amd64/clipshare-client_3.12.0-1focal_amd64.deb
+Size: 26632
+MD5sum: b6245670959109c556cce66d670a1307
+SHA1: 7ed74c533cafd6dfdede74c3b7da7140c59e3239
+SHA256: 32a9c2fd05d69d40c3eb62e65a32becc9d7e795f200ceb7456e8ef1d8f9b2bcd
+Section: utils
+Priority: optional
+Description: Share clipboard
+ ClipShare is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+ This package contains the desktop client.
+
 Package: clipshare-server
 Version: 3.10.0-1focal
 Architecture: amd64
