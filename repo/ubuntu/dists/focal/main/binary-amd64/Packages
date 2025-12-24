@@ -1,14 +1,14 @@
 Package: clipshare-client
-Version: 3.10.0-1focal
+Version: 3.10.0-2focal
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 104
 Depends: libc6, libssl1.1, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
-Filename: dists/focal/main/binary-amd64/clipshare-client_3.10.0-1focal_amd64.deb
-Size: 25788
-MD5sum: 836af3ed3e952ebdcbf549283cadadbb
-SHA1: c8aec1b2fe6b0580bc4929f0ae6ba95deeca7208
-SHA256: 174aa46d5c294fe1f95f1281638eac2b6e7eabfa3d347f191a2bc824efcbccd6
+Filename: dists/focal/main/binary-amd64/clipshare-client_3.10.0-2focal_amd64.deb
+Size: 25836
+MD5sum: 79c49c6a0a6c9b5da533dd4617904c45
+SHA1: e83968dce01b35dad8f9d8d8eeeed9b87f04c944
+SHA256: 2f9605236c20a4645a02ab910e836849571831e7fa89620c5cfe287fdde95f43
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -17,16 +17,16 @@ Description: Share clipboard
  This package contains the desktop client.
 
 Package: clipshare-client
-Version: 3.11.0-1focal
+Version: 3.11.0-2focal
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 108
 Depends: libc6, libssl1.1, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
-Filename: dists/focal/main/binary-amd64/clipshare-client_3.11.0-1focal_amd64.deb
-Size: 26536
-MD5sum: faaf0879763b3bedc5c484623fe4965c
-SHA1: 24710d561add8d3fbeadfa1ebe284d1d60ca6768
-SHA256: f0c8c50b1556df08d6386050e69b6fe36500f7f5fdf5887afdb04f02ba3134a8
+Filename: dists/focal/main/binary-amd64/clipshare-client_3.11.0-2focal_amd64.deb
+Size: 26600
+MD5sum: 3eba5aa89e47aee15dab9224909e1bb3
+SHA1: 680196ba7d340d795005adb7a220eaf78b56b95c
+SHA256: 63999c14d770666a0828559480535673e0f0cf0adb4cac2f81b1a2cb8c621092
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -35,16 +35,16 @@ Description: Share clipboard
  This package contains the desktop client.
 
 Package: clipshare-client
-Version: 3.11.1-1focal
+Version: 3.11.1-2focal
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 108
 Depends: libc6, libssl1.1, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
-Filename: dists/focal/main/binary-amd64/clipshare-client_3.11.1-1focal_amd64.deb
-Size: 26508
-MD5sum: d10d270e9b8d23e33a474c03b2c0cb1b
-SHA1: a6119bb318a059293c2bd28d11973efd29717388
-SHA256: 85ff544a64f5c7b4e6522731df62bb33f4af06989725deae19c01fceb7de3821
+Filename: dists/focal/main/binary-amd64/clipshare-client_3.11.1-2focal_amd64.deb
+Size: 26592
+MD5sum: 6b83b0188cc286a394911d47f8658855
+SHA1: 6a1d2cdf40533ecbfcb64f5dfebd5a7671ada1ef
+SHA256: f046f3765b8f4747233b18cb5828649fdfda67be8ec2d150d3a340f8391b28aa
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -53,16 +53,16 @@ Description: Share clipboard
  This package contains the desktop client.
 
 Package: clipshare-client
-Version: 3.12.0-1focal
+Version: 3.12.0-2focal
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 108
 Depends: libc6, libssl1.1, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
-Filename: dists/focal/main/binary-amd64/clipshare-client_3.12.0-1focal_amd64.deb
-Size: 26632
-MD5sum: b6245670959109c556cce66d670a1307
-SHA1: 7ed74c533cafd6dfdede74c3b7da7140c59e3239
-SHA256: 32a9c2fd05d69d40c3eb62e65a32becc9d7e795f200ceb7456e8ef1d8f9b2bcd
+Filename: dists/focal/main/binary-amd64/clipshare-client_3.12.0-2focal_amd64.deb
+Size: 26620
+MD5sum: 331a2991c4bbb430abc0ca65704ec79c
+SHA1: 2ebdf97936140e0f50f18c920665946c9a1c8069
+SHA256: b9fbea48621c4b4194e34559d9359342b17f8d71c475a9687af65ddeee078454
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -71,16 +71,16 @@ Description: Share clipboard
  This package contains the desktop client.
 
 Package: clipshare-server
-Version: 3.10.0-1focal
+Version: 3.10.0-2focal
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 96
 Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/focal/main/binary-amd64/clipshare-server_3.10.0-1focal_amd64.deb
-Size: 23596
-MD5sum: 71f6ae762a9b9d8789c72837473f13f1
-SHA1: 4678bcbe18a0eab4b7a6dd3fa5ed37c8b56238d5
-SHA256: 03fa85d3ccdfe9a7bb6880680eeeed7a22fb1d4d480406729bfe3b75eb7fa428
+Filename: dists/focal/main/binary-amd64/clipshare-server_3.10.0-2focal_amd64.deb
+Size: 23544
+MD5sum: 539cf96c804bbe72eefbec7892da0576
+SHA1: 9afe1da83c7fe41ab3e9ae3185f583715319373c
+SHA256: 55af66529d7f19f720e6539950ac18eab5e05ec4968e403e021ce740922b81f8
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -88,16 +88,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.11.0-1focal
+Version: 3.11.0-2focal
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 96
 Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/focal/main/binary-amd64/clipshare-server_3.11.0-1focal_amd64.deb
-Size: 23864
-MD5sum: f8c84024b4316cb20cb7d8b7cc8b4822
-SHA1: 076939f1e612da92735b0766ad5d95b0578f54bb
-SHA256: fcb220fb73c36fa6156a89ca5be89b1d6cb9f5dcbe64f1edf7246d283d328d15
+Filename: dists/focal/main/binary-amd64/clipshare-server_3.11.0-2focal_amd64.deb
+Size: 23716
+MD5sum: 6ea0a1cd7fbcaacf8b04c13f5f16b6ad
+SHA1: e897150bc9cdaef9ea7b90a26fb4bb240141b477
+SHA256: 31ad017d7a4d6544fd18123b6f1e06c51426424fb88b39b584439d516ecb474d
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -105,16 +105,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.11.1-1focal
+Version: 3.11.1-2focal
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 96
 Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/focal/main/binary-amd64/clipshare-server_3.11.1-1focal_amd64.deb
-Size: 23632
-MD5sum: 04dbf724c68e6b280189ba1512945dc2
-SHA1: b08a583487104cb12d5f155f156325cc091c2a98
-SHA256: 60f45c4513e54dbbbd44280e70926c831cca26932f3d398d7cfb892899aa12ff
+Filename: dists/focal/main/binary-amd64/clipshare-server_3.11.1-2focal_amd64.deb
+Size: 23648
+MD5sum: 241d6acbe8fc4bf6d58c9da455c05e18
+SHA1: a349db95759e1c83b4f7247d69f5333b42798411
+SHA256: 827a14adcd207c3f25b34d9e1702a81b1c5387e719b86c07876acf03493e36ee
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -122,33 +122,33 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.8.0-1focal
-Architecture: amd64
-Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
-Installed-Size: 84
-Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/focal/main/binary-amd64/clipshare-server_3.8.0-1focal_amd64.deb
-Size: 23288
-MD5sum: fae18bede4dfbbd33ed3912bf4195ef6
-SHA1: 46a3c9343740181d22e3c6a462500fabb13f240e
-SHA256: e8eb8d1f77b4826dbde095870205c188820367b7c0e82f026a3a48ff79824507
-Section: utils
-Priority: optional
-Description: Share clipboard
- This is a simple and lightweight tool to securely share the
- clipboard contents across devices on a LAN (Local Area Network).
-
-Package: clipshare-server
-Version: 3.8.1-1focal
+Version: 3.8.0-2focal
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 88
 Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/focal/main/binary-amd64/clipshare-server_3.8.1-1focal_amd64.deb
+Filename: dists/focal/main/binary-amd64/clipshare-server_3.8.0-2focal_amd64.deb
+Size: 23268
+MD5sum: 920011e890c138e02e6ae767b4278b5b
+SHA1: f2450696d109000ce2dc795f3793ff5fc49a7486
+SHA256: a29ee1a32f83264486251356bd07da5fe211730f2741eed6171f1f8c4cb5e027
+Section: utils
+Priority: optional
+Description: Share clipboard
+ This is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+
+Package: clipshare-server
+Version: 3.8.1-2focal
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 88
+Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/focal/main/binary-amd64/clipshare-server_3.8.1-2focal_amd64.deb
 Size: 23220
-MD5sum: 756f5497bbd17a99e49883aa489d996b
-SHA1: 246cb412be4184dd886569321947e86c7320fc9d
-SHA256: 99a6fedfd74522bc45d1315bc1ebb6f021c8fbfde4590e2ecee9b23324d9b534
+MD5sum: 6f849d8e7b31836859fdd220f2cc498a
+SHA1: fca99412388cba3f1b566a5068f18c0538f96b32
+SHA256: 63af43ce6e327a464f5b8d6e73d27599840d9dc19b0b64a845f86a3ca089086d
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -156,16 +156,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.8.2-1focal
+Version: 3.8.2-2focal
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 88
 Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/focal/main/binary-amd64/clipshare-server_3.8.2-1focal_amd64.deb
-Size: 23208
-MD5sum: dc1ebcc28db506b703dec1ad678ab077
-SHA1: fc56e0d0b1be5fb87d8ff68ec2acf51d51abf1d0
-SHA256: c43fb19fdfa8386a2f404171be60fc6a1c96ae6e7d90271c60e2b2f44f032f73
+Filename: dists/focal/main/binary-amd64/clipshare-server_3.8.2-2focal_amd64.deb
+Size: 23168
+MD5sum: 3abc9de1f05791d9f2185092a358f58f
+SHA1: c4fa0079aa34cd7b8b4a90e9dc1b1ba50c51ff89
+SHA256: 37bb0153bdbd10461a8f7783b70d63564c2e3300d60d3fc6993f4106acc3481a
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -173,33 +173,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.8.3-1focal
-Architecture: amd64
-Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
-Installed-Size: 88
-Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/focal/main/binary-amd64/clipshare-server_3.8.3-1focal_amd64.deb
-Size: 23292
-MD5sum: 8d20ce96f1eaea2d3e98faa72d53ac55
-SHA1: 895146f5a29af4c70274ecae381bce8988a9d370
-SHA256: 481a3fe5fe7df4bd6b0230db5999833e36f62e027ee31a37db1b4a3cce03ec49
-Section: utils
-Priority: optional
-Description: Share clipboard
- This is a simple and lightweight tool to securely share the
- clipboard contents across devices on a LAN (Local Area Network).
-
-Package: clipshare-server
-Version: 3.8.4-1focal
+Version: 3.8.3-2focal
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 92
 Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/focal/main/binary-amd64/clipshare-server_3.8.4-1focal_amd64.deb
-Size: 23296
-MD5sum: 1270ac7225f4b860eca8223b97a75ef1
-SHA1: 77bcb3866f5d106449fbc959856159271fbf83a3
-SHA256: 603961b5d78502812294fec8df29f02ae7da8ade2a888addadd97697c2c62782
+Filename: dists/focal/main/binary-amd64/clipshare-server_3.8.3-2focal_amd64.deb
+Size: 23236
+MD5sum: 39efd0c1e2e6f716aa40169a8ad7519f
+SHA1: 21e2737eaa01e4dcfc4c4bf64501ebe80b8b6c3b
+SHA256: 93124a33102466e97796c9cb1d8bf255b6dda24a5c4c1036ae645aa7134c7091
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -207,16 +190,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.8.5-1focal
+Version: 3.8.4-2focal
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 92
 Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/focal/main/binary-amd64/clipshare-server_3.8.5-1focal_amd64.deb
-Size: 23264
-MD5sum: d7ed86c938f30f8a129d7cc1a0f03970
-SHA1: 0aafbf411cbb9527644a85c208dfa3229642e1b7
-SHA256: de7da40c12ad0aebfebe76ad182db505108e4415d3c9a0819dca99d30330667d
+Filename: dists/focal/main/binary-amd64/clipshare-server_3.8.4-2focal_amd64.deb
+Size: 23288
+MD5sum: 80d47158569c3d6ecdf63946ce04e732
+SHA1: 0dca9e1788fb4c4a999bf0f5d17ba12b58ddf725
+SHA256: b0de0cdf0c581c0fc4a44ac470afaf433259dd59e4eeb6caa515f76e9033c0c3
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -224,16 +207,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.9.0-1focal
+Version: 3.8.5-2focal
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 92
 Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/focal/main/binary-amd64/clipshare-server_3.9.0-1focal_amd64.deb
-Size: 23388
-MD5sum: 8032b0fc7266358ef37bc6d917f3b39e
-SHA1: caa048e2d5063c6a72e64257370ec1c6051bb5d3
-SHA256: 0d79270bb90e02b61f46c74c49c2ae6c6d008b9fa6960e760654ed2937940cbc
+Filename: dists/focal/main/binary-amd64/clipshare-server_3.8.5-2focal_amd64.deb
+Size: 23244
+MD5sum: 8a357f50a5e7bd9001caf6f9860e71da
+SHA1: c838774000e96b0d9998450fbd9364af533610b9
+SHA256: 1da4711c78ddaa336a641e52a134510b3b58f3341a039edec91f926196a7d47a
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -241,16 +224,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.9.1-1focal
+Version: 3.9.0-2focal
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
-Installed-Size: 84
+Installed-Size: 92
 Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/focal/main/binary-amd64/clipshare-server_3.9.1-1focal_amd64.deb
-Size: 23576
-MD5sum: c11974668b71f7cd3de07a88a68366a8
-SHA1: 561d1256fac8c16dd1c8e2f887ce2f19e7dbf9c2
-SHA256: 3d3e2c22acf08eda70ce2f811f05129fc084c9042d348717cb24de281e2925a9
+Filename: dists/focal/main/binary-amd64/clipshare-server_3.9.0-2focal_amd64.deb
+Size: 23384
+MD5sum: a4f220f900c0dc03bd970e3777e38529
+SHA1: 714a32d1c3168b8e2868cb07d9a907dca5d532c2
+SHA256: 64b19741b4e0a524bcf57b29aab371d7dc168bda8e5a963e5718c0db77f5a12c
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -258,16 +241,33 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.9.2-1focal
+Version: 3.9.1-2focal
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
-Installed-Size: 88
+Installed-Size: 92
 Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/focal/main/binary-amd64/clipshare-server_3.9.2-1focal_amd64.deb
-Size: 23592
-MD5sum: a6cb23488ed1fbb65701a79006a9e5a4
-SHA1: 792aeb7cf8fa1b3d9ab70f9c5dab195beaeb7c4a
-SHA256: 168303168279b6132c00d4fed1dcf4005aab2b971ac5f2fea95c2ec1eb4bcf07
+Filename: dists/focal/main/binary-amd64/clipshare-server_3.9.1-2focal_amd64.deb
+Size: 23540
+MD5sum: f6d56aca5afa4ad5ecbaf723a26d2087
+SHA1: b3722ccabfb481fac1ba9a4cfb71076543da9949
+SHA256: 145469cf1d828c1f276bb6b6b06c596a9129b2ebbcd9898175c4df7dc47095cd
+Section: utils
+Priority: optional
+Description: Share clipboard
+ This is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+
+Package: clipshare-server
+Version: 3.9.2-2focal
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 96
+Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/focal/main/binary-amd64/clipshare-server_3.9.2-2focal_amd64.deb
+Size: 23552
+MD5sum: 5300771c4bc55084def4f12ff8dc0dbe
+SHA1: 9d259608d5dbe9fb753ca4cb3a20f254ebff5147
+SHA256: aabff7d4a93ba8600e700a9109f365185929ee14af4d46056957235cdb8f8cbc
 Section: utils
 Priority: optional
 Description: Share clipboard

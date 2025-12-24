@@ -1,14 +1,14 @@
 Package: clipshare-client
-Version: 3.10.0-1bionic
+Version: 3.10.0-2bionic
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 100
 Depends: libc6, libssl1.1, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
-Filename: dists/bionic/main/binary-amd64/clipshare-client_3.10.0-1bionic_amd64.deb
-Size: 25412
-MD5sum: b1eadfe3a6f03d1a1eb94d000c8cc588
-SHA1: 596e3db589e332cd5dcb0b0a228ecf79cc540dec
-SHA256: 04d176038c0252efdfe94571dad98e4b6bb1e326a981c977c216011197baeb01
+Filename: dists/bionic/main/binary-amd64/clipshare-client_3.10.0-2bionic_amd64.deb
+Size: 25436
+MD5sum: d27f10dfb38c8b65f5a571c376918f81
+SHA1: 9878bed34cde889a526c7e60ec5ce04a8d551bff
+SHA256: 82443d87b3e9eb63d2e12c796d08b486f28373906ad3cfb8c99753ccb7f68a45
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -17,16 +17,16 @@ Description: Share clipboard
  This package contains the desktop client.
 
 Package: clipshare-client
-Version: 3.11.0-1bionic
+Version: 3.11.0-2bionic
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 100
 Depends: libc6, libssl1.1, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
-Filename: dists/bionic/main/binary-amd64/clipshare-client_3.11.0-1bionic_amd64.deb
-Size: 26156
-MD5sum: 0a87b848a33f6c2e3edfd6a7eb8c5d51
-SHA1: fdc9a361db0604b32ecdaa6f922608fd06ec2cee
-SHA256: 3004c083cc08ccc4947f44f2bb44091baaa45a92c7fe7d136bd9c3f8bee172f3
+Filename: dists/bionic/main/binary-amd64/clipshare-client_3.11.0-2bionic_amd64.deb
+Size: 26068
+MD5sum: e7ff101ce00e1bad474cf7c4defbc589
+SHA1: 70b43d724c6415ad6e77504a57e56fb074d5ae83
+SHA256: bbd2ff10d6149c4e1d871cedd8d6136d3f2b05de1e612c4293b2dfc38f313080
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -35,16 +35,16 @@ Description: Share clipboard
  This package contains the desktop client.
 
 Package: clipshare-client
-Version: 3.11.1-1bionic
+Version: 3.11.1-2bionic
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 100
 Depends: libc6, libssl1.1, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
-Filename: dists/bionic/main/binary-amd64/clipshare-client_3.11.1-1bionic_amd64.deb
-Size: 26104
-MD5sum: 1e6ce1cd77f1466ebff89a800da96789
-SHA1: af037c5da8a5527fd13a5c9491b76623f5a34ab8
-SHA256: 29bcdf4430118343fb983c626bd6a452f4bb094659ff2bfe8da386f339a06fe5
+Filename: dists/bionic/main/binary-amd64/clipshare-client_3.11.1-2bionic_amd64.deb
+Size: 26116
+MD5sum: 196eb63bbe75a8a1b7ace09ff8707392
+SHA1: ff2e6aa701faf82b3c8cfb033740649fb79f5831
+SHA256: 4a3b40abf50682bc0059ea4c331412e2dc2a0ca2564f81e9781ebd97f6dab49f
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -53,16 +53,16 @@ Description: Share clipboard
  This package contains the desktop client.
 
 Package: clipshare-client
-Version: 3.12.0-1bionic
+Version: 3.12.0-2bionic
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 100
 Depends: libc6, libssl1.1, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
-Filename: dists/bionic/main/binary-amd64/clipshare-client_3.12.0-1bionic_amd64.deb
-Size: 26156
-MD5sum: b5bcc1bc9d22d7c9a149d24eb95f5ad2
-SHA1: 3f9bf24a4b088e47dda469ae9dd843f6db014882
-SHA256: c47a56e136ecd31c619ca2b1d93c1725502f9b4f1cce20004b1eda476bb14693
+Filename: dists/bionic/main/binary-amd64/clipshare-client_3.12.0-2bionic_amd64.deb
+Size: 26160
+MD5sum: 6e1eba9434ae8c3f0aa502735d82394d
+SHA1: b90fe7eb012c1df2ee6b771218434359347c2503
+SHA256: 49d8bd0d3ab568768eac9d5bb34e8b2285f184650ddadcca1fc2e4487fc516e2
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -71,16 +71,16 @@ Description: Share clipboard
  This package contains the desktop client.
 
 Package: clipshare-server
-Version: 3.10.0-1bionic
+Version: 3.10.0-2bionic
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 88
 Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/bionic/main/binary-amd64/clipshare-server_3.10.0-1bionic_amd64.deb
-Size: 23368
-MD5sum: a06137ff5c64980dc3e36afdc8d5f760
-SHA1: 5d50917f0e1793480c5c757250bbd2f64f17e777
-SHA256: f7af6838a201568057a4aab884c70f996aa233474e456e834eec00a57ea14db5
+Filename: dists/bionic/main/binary-amd64/clipshare-server_3.10.0-2bionic_amd64.deb
+Size: 23364
+MD5sum: e934d32369cbf7e1af5b272f86130d6f
+SHA1: 65ae65cd0dc8d352ff39b76b662a33c65138d543
+SHA256: cb992263b8cb5ef5ab74da13ff759caa9146860fc2e14ae2e204b9d0e8271a48
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -88,16 +88,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.11.0-1bionic
+Version: 3.11.0-2bionic
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 88
 Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/bionic/main/binary-amd64/clipshare-server_3.11.0-1bionic_amd64.deb
-Size: 23468
-MD5sum: 7f773a5f176b0fe14521f401a47c12a4
-SHA1: 802027dc27109b199081058f70044f5e52cac662
-SHA256: 880bdb606c6b518db7632909971d510d8504bc98be4f59eb0a41612b145b2882
+Filename: dists/bionic/main/binary-amd64/clipshare-server_3.11.0-2bionic_amd64.deb
+Size: 23480
+MD5sum: bad5946c9d3cd6539d75b5d99bdab057
+SHA1: 27b4cc9802cf8b638ff10ab5019d5ffdb294fa73
+SHA256: 8ee2cf9436511757d5230420423bbd907ebb8fcefadd2356061e1b8b16a69f28
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -105,16 +105,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.11.1-1bionic
+Version: 3.11.1-2bionic
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 88
 Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/bionic/main/binary-amd64/clipshare-server_3.11.1-1bionic_amd64.deb
-Size: 23456
-MD5sum: 55ce9137b57840408de118ecf8a42924
-SHA1: 90cf0dda8bfc224286b9768ed41dce7b1d72de4e
-SHA256: 989c96fc766fb4a1e49a40bc6cd4e19c6bab0fb08b4eb44d565f0973b09e2562
+Filename: dists/bionic/main/binary-amd64/clipshare-server_3.11.1-2bionic_amd64.deb
+Size: 23396
+MD5sum: db86ac0a81045fb4dbb8c09c28e404f4
+SHA1: b72f133b72b5677d36f8ac13b80247cf7eb08acf
+SHA256: 93771106f58d960960fba1fd3671f7991d605f4337d3ba3af814e1cce88ec78f
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -122,152 +122,152 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.8.0-1bionic
+Version: 3.8.0-2bionic
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 84
+Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/bionic/main/binary-amd64/clipshare-server_3.8.0-2bionic_amd64.deb
+Size: 22992
+MD5sum: fe7f3d95c8aa6a25c3200f535f0c1d1c
+SHA1: b12b3575fde1b2202f93679182034556542bbc64
+SHA256: a972012912745b1a2ff2ae1f8ad0e1bbdf83948e28bc8835c0f0f7146b94707c
+Section: utils
+Priority: optional
+Description: Share clipboard
+ This is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+
+Package: clipshare-server
+Version: 3.8.1-2bionic
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 84
+Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/bionic/main/binary-amd64/clipshare-server_3.8.1-2bionic_amd64.deb
+Size: 22924
+MD5sum: 7ea388a0eb784dd96f36b82ea2294f2e
+SHA1: 6c22bf131efa7cf26f583083633277ef2c11b7e3
+SHA256: 443341b37706a6835780b4e2bb153adf3569180c139cf3688e6b2ac82e1b8c48
+Section: utils
+Priority: optional
+Description: Share clipboard
+ This is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+
+Package: clipshare-server
+Version: 3.8.2-2bionic
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 84
+Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/bionic/main/binary-amd64/clipshare-server_3.8.2-2bionic_amd64.deb
+Size: 22892
+MD5sum: d73e8effb5d899cf2237861faab27996
+SHA1: 91778c8654f6cdf52ec1556a61d57add1a35ad91
+SHA256: de39fecfdde126794434dfc82b309f161060c00e954ebb6bf1bf8cde7581fc71
+Section: utils
+Priority: optional
+Description: Share clipboard
+ This is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+
+Package: clipshare-server
+Version: 3.8.3-2bionic
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 84
+Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/bionic/main/binary-amd64/clipshare-server_3.8.3-2bionic_amd64.deb
+Size: 23000
+MD5sum: 250e2f1caced6da98756fda5715ac2d0
+SHA1: 8b2d8586ed65419f686094fee5bb908024859e90
+SHA256: 0dee840ec1ab3066abe52188695e1da2871156ce2731441e67ea3077909835f4
+Section: utils
+Priority: optional
+Description: Share clipboard
+ This is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+
+Package: clipshare-server
+Version: 3.8.4-2bionic
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 84
+Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/bionic/main/binary-amd64/clipshare-server_3.8.4-2bionic_amd64.deb
+Size: 23008
+MD5sum: d3468e0f72a3cc4fb9c7ef2b5c827b3b
+SHA1: 3e895dbf6d0c4dcbc791395ea455231939769560
+SHA256: 3e2448b5b9f85b15e5d888e66b65419c53583ee4069f1a132724f70b0ac47fe4
+Section: utils
+Priority: optional
+Description: Share clipboard
+ This is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+
+Package: clipshare-server
+Version: 3.8.5-2bionic
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 84
+Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/bionic/main/binary-amd64/clipshare-server_3.8.5-2bionic_amd64.deb
+Size: 22956
+MD5sum: d7761c73aeae0c79c66ec11306f70671
+SHA1: a810a9953e0cd31a9b5bf33fb4d35e369483518f
+SHA256: 006057a67a41623fab51a19f173d3c076898b3dafd2f2c84ef0c08f209973e1d
+Section: utils
+Priority: optional
+Description: Share clipboard
+ This is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+
+Package: clipshare-server
+Version: 3.9.0-2bionic
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 84
+Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/bionic/main/binary-amd64/clipshare-server_3.9.0-2bionic_amd64.deb
+Size: 23132
+MD5sum: 94920419aa821663e858d91e3ff26637
+SHA1: 3d246330c9480fd04860d1663a16936bfb2684cc
+SHA256: 00ca9a4d169ea29fe8f13fba7bb7c9250bc8a6028e21ed4d2574c9de7222f026
+Section: utils
+Priority: optional
+Description: Share clipboard
+ This is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+
+Package: clipshare-server
+Version: 3.9.1-2bionic
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 84
+Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/bionic/main/binary-amd64/clipshare-server_3.9.1-2bionic_amd64.deb
+Size: 23196
+MD5sum: 3bd3a4a4f61c8f069c1dfd6d4bda6289
+SHA1: 51647af46c0a805ee054b7349bc02c40e15436dc
+SHA256: 281a93acc9bcb416c44fcbd6a8526916da92fe5f0826f5d89df31f4205c67010
+Section: utils
+Priority: optional
+Description: Share clipboard
+ This is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+
+Package: clipshare-server
+Version: 3.9.2-2bionic
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 88
 Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/bionic/main/binary-amd64/clipshare-server_3.8.0-1bionic_amd64.deb
-Size: 22996
-MD5sum: 4bc5f27b39fa376e2fe8978951c9501c
-SHA1: 451d320054f7a181aeddd93f2716a356a9169a9c
-SHA256: 1fbb180c67fb51fe21c7f61bf2bd6c2bd49401bc2296c1cfb34e9351f8ab802b
-Section: utils
-Priority: optional
-Description: Share clipboard
- This is a simple and lightweight tool to securely share the
- clipboard contents across devices on a LAN (Local Area Network).
-
-Package: clipshare-server
-Version: 3.8.1-1bionic
-Architecture: amd64
-Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
-Installed-Size: 84
-Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/bionic/main/binary-amd64/clipshare-server_3.8.1-1bionic_amd64.deb
-Size: 22944
-MD5sum: 35cad3c5bfc807de46c97334a1b7b3cd
-SHA1: 3a2dde899e1083bcac60a5be388d6c3f9e57d41e
-SHA256: f7847d48a1c98b3f56e23d57dbd10c637a5f00a05970ca79a443ef49eb6df44f
-Section: utils
-Priority: optional
-Description: Share clipboard
- This is a simple and lightweight tool to securely share the
- clipboard contents across devices on a LAN (Local Area Network).
-
-Package: clipshare-server
-Version: 3.8.2-1bionic
-Architecture: amd64
-Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
-Installed-Size: 84
-Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/bionic/main/binary-amd64/clipshare-server_3.8.2-1bionic_amd64.deb
-Size: 22920
-MD5sum: 6345f50dc1fecb8848b31df459848c68
-SHA1: 5504a974b96642f87cef6406dfa3db2cca7a37a7
-SHA256: 2de9b03320d4ebd4810b34c668653dc9ab80535c1744200801e5560c51e624a8
-Section: utils
-Priority: optional
-Description: Share clipboard
- This is a simple and lightweight tool to securely share the
- clipboard contents across devices on a LAN (Local Area Network).
-
-Package: clipshare-server
-Version: 3.8.3-1bionic
-Architecture: amd64
-Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
-Installed-Size: 84
-Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/bionic/main/binary-amd64/clipshare-server_3.8.3-1bionic_amd64.deb
-Size: 23028
-MD5sum: 2cb0fdaa6bf4ca4dffd9b0952221dfb3
-SHA1: 3c52f13db883ab32fe7ca2a8d8bc2fbf00a8d85a
-SHA256: 40c0e6d7f135c074201f92a6739061b03311ac9132bc850306908e14db7d681f
-Section: utils
-Priority: optional
-Description: Share clipboard
- This is a simple and lightweight tool to securely share the
- clipboard contents across devices on a LAN (Local Area Network).
-
-Package: clipshare-server
-Version: 3.8.4-1bionic
-Architecture: amd64
-Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
-Installed-Size: 84
-Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/bionic/main/binary-amd64/clipshare-server_3.8.4-1bionic_amd64.deb
-Size: 23024
-MD5sum: 7ea285eaabb221be624f59c23159c9bd
-SHA1: 1660cd53d3f47dbd8ff12ac6c67b59ba1973a050
-SHA256: 898702ef100da19540c2316f633bb9cbb72d1757de03be9377b32e40dbcb25d5
-Section: utils
-Priority: optional
-Description: Share clipboard
- This is a simple and lightweight tool to securely share the
- clipboard contents across devices on a LAN (Local Area Network).
-
-Package: clipshare-server
-Version: 3.8.5-1bionic
-Architecture: amd64
-Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
-Installed-Size: 84
-Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/bionic/main/binary-amd64/clipshare-server_3.8.5-1bionic_amd64.deb
-Size: 22980
-MD5sum: b25f29e9afda10248f253b5e1ad34778
-SHA1: f33a48b98f18e03545a463c02059b700609333ea
-SHA256: aab9f3c8fe2fd4e5e291bc77003fb772ebe8f52d30f207f3414a86cab19a5d54
-Section: utils
-Priority: optional
-Description: Share clipboard
- This is a simple and lightweight tool to securely share the
- clipboard contents across devices on a LAN (Local Area Network).
-
-Package: clipshare-server
-Version: 3.9.0-1bionic
-Architecture: amd64
-Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
-Installed-Size: 84
-Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/bionic/main/binary-amd64/clipshare-server_3.9.0-1bionic_amd64.deb
-Size: 23120
-MD5sum: b721dbc214e71337f6e26f269a6d441b
-SHA1: 9eff3be3d72a53843ad65d263227b796e78d2054
-SHA256: df377c21e9cde8681654fd61f75b1a20eb780534fcf02e87fdbeab1e197a2ca6
-Section: utils
-Priority: optional
-Description: Share clipboard
- This is a simple and lightweight tool to securely share the
- clipboard contents across devices on a LAN (Local Area Network).
-
-Package: clipshare-server
-Version: 3.9.1-1bionic
-Architecture: amd64
-Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
-Installed-Size: 92
-Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/bionic/main/binary-amd64/clipshare-server_3.9.1-1bionic_amd64.deb
-Size: 23224
-MD5sum: 9471c4a501432815634d2db9f14350b2
-SHA1: 84edf7c4ccf6a43d7c2fda3e3e97a382d476b3aa
-SHA256: 4b8c1e80f3edbcdd9e22fb0b6d5fd6a5254b4e7d0433d3f8704334032c9bc110
-Section: utils
-Priority: optional
-Description: Share clipboard
- This is a simple and lightweight tool to securely share the
- clipboard contents across devices on a LAN (Local Area Network).
-
-Package: clipshare-server
-Version: 3.9.2-1bionic
-Architecture: amd64
-Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
-Installed-Size: 88
-Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/bionic/main/binary-amd64/clipshare-server_3.9.2-1bionic_amd64.deb
-Size: 23300
-MD5sum: 291fe17ac35c147b0b97bd4cd6851de1
-SHA1: ce04e866bfe2c9e9d614cf07ac8b27d3b07e9931
-SHA256: 425456ad814ec74a3a0ef515d503f51542365c72d014dec008a97927857ce1c3
+Filename: dists/bionic/main/binary-amd64/clipshare-server_3.9.2-2bionic_amd64.deb
+Size: 23296
+MD5sum: f4bb8b35c1c37203881f9646721aa68b
+SHA1: ba7375a5d0de974d7140310eb65cd278c462b9d9
+SHA256: c1aa419aa64364ca1904dc57489e5240f6b2938222c6df9c9ccab3290d3aba73
 Section: utils
 Priority: optional
 Description: Share clipboard

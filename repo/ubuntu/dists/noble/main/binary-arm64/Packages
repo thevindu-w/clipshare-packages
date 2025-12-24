@@ -1,14 +1,14 @@
 Package: clipshare-client
-Version: 3.11.1-1noble
+Version: 3.11.1-2noble
 Architecture: arm64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 112
 Depends: libc6, libssl3t64, libunistring5, libx11-6, libxmu6, libxfixes3, libmicrohttpd12t64
-Filename: dists/noble/main/binary-arm64/clipshare-client_3.11.1-1noble_arm64.deb
+Filename: dists/noble/main/binary-arm64/clipshare-client_3.11.1-2noble_arm64.deb
 Size: 25160
-MD5sum: fda5d5258a44443d7d2cfd22c8804a4f
-SHA1: 3f0ccd15337d85fd5b63bc4d2c478c952d53e883
-SHA256: ce77e1f673b37acbf824dcabf2ed98a0103e0771274f26674038173a0963550f
+MD5sum: 0a806cf3dffd1d334d59815fef643988
+SHA1: e4d735e4820a9c28303e05760d326f5b26c53a2b
+SHA256: b24c76c5ebf6ad41c3866ef3f656210e1097ad1d8279ddd419571e50bf7faa28
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -17,16 +17,16 @@ Description: Share clipboard
  This package contains the desktop client.
 
 Package: clipshare-client
-Version: 3.12.0-1noble
+Version: 3.12.0-2noble
 Architecture: arm64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 112
 Depends: libc6, libssl3t64, libunistring5, libx11-6, libxmu6, libxfixes3, libmicrohttpd12t64
-Filename: dists/noble/main/binary-arm64/clipshare-client_3.12.0-1noble_arm64.deb
-Size: 25200
-MD5sum: 134ea79eaa377d495c261835deb2b181
-SHA1: 65fc923667bf06e373be678f6472bbfd5d0b6000
-SHA256: df2010b1ef44be4720ad94ef6ce37eea2e1a0a92d83481d02280e9f30763100a
+Filename: dists/noble/main/binary-arm64/clipshare-client_3.12.0-2noble_arm64.deb
+Size: 25208
+MD5sum: dac8aceadbd8afa91cb2dde598be4f22
+SHA1: 1af3dcc30668a68bf260c112c5bd6c4ccf428ff0
+SHA256: 809c974fca1dc0efdda57197b633a481ed4a5d172a06993ee393591d5edf75f8
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -35,16 +35,16 @@ Description: Share clipboard
  This package contains the desktop client.
 
 Package: clipshare-server
-Version: 3.10.0-1noble
+Version: 3.10.0-2noble
 Architecture: arm64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 100
 Depends: libc6, libpng16-16t64, libssl3t64, libunistring5, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/noble/main/binary-arm64/clipshare-server_3.10.0-1noble_arm64.deb
-Size: 22180
-MD5sum: b05869b43e62336d267b2232f969b98a
-SHA1: 073a02a70a710276bcb6a731e84dce72a5f45968
-SHA256: 5f30e78d25923ebccd658053f59c7dac8d32f477321d4855a37b15981935c94f
+Filename: dists/noble/main/binary-arm64/clipshare-server_3.10.0-2noble_arm64.deb
+Size: 22176
+MD5sum: 5785bc717195870c3a706a525a0bfae2
+SHA1: df3553753922cecec595ace8582c5497f89c71d1
+SHA256: ac2260d7ea1b94f33c93f2c2e822067f44e8cdde9cf174e7ecfdb63cf78e47b7
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -52,16 +52,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.11.0-1noble
+Version: 3.11.0-2noble
 Architecture: arm64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 100
 Depends: libc6, libpng16-16t64, libssl3t64, libunistring5, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/noble/main/binary-arm64/clipshare-server_3.11.0-1noble_arm64.deb
-Size: 22312
-MD5sum: e58a4877f80be32aba25743424e37367
-SHA1: 7c781ad05816a1de91eade74b08a475394bc75d9
-SHA256: 18443fda0cbee0c6aec4b71d7b9000a8a91850c2a2025b52725bb8e60a774ff7
+Filename: dists/noble/main/binary-arm64/clipshare-server_3.11.0-2noble_arm64.deb
+Size: 22252
+MD5sum: 3684fd51a0d95e9821d0f9b4144381a6
+SHA1: cd7ca0180c97e2c3d513e1952881f0724c77bf02
+SHA256: 0854b98fbb1e004d0fb112954ebd7d367b924017fee071a915a28d8b38422802
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -69,16 +69,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.11.1-1noble
+Version: 3.11.1-2noble
 Architecture: arm64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 100
 Depends: libc6, libpng16-16t64, libssl3t64, libunistring5, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/noble/main/binary-arm64/clipshare-server_3.11.1-1noble_arm64.deb
-Size: 22188
-MD5sum: f0c00c112a08190286e66f3e0e0ea219
-SHA1: 49bba009d0785159d03f5f34e705bf605a887813
-SHA256: 31723dd9ad8d13de2049c7a2344355806dc172a1c67e774975e0c115086dc59b
+Filename: dists/noble/main/binary-arm64/clipshare-server_3.11.1-2noble_arm64.deb
+Size: 22144
+MD5sum: 790333e3293c21f470f67f56a0c7ffab
+SHA1: 2abc3a75c34101c0fdc1b4a59832539d59ed3ada
+SHA256: b20b70cc77948058dadf7bb2eee0708e83af23c18cae2ef37fcbd2b2f68a304e
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -86,16 +86,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.9.1-1noble
+Version: 3.9.1-2noble
 Architecture: arm64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 100
 Depends: libc6, libpng16-16t64, libssl3t64, libunistring5, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/noble/main/binary-arm64/clipshare-server_3.9.1-1noble_arm64.deb
-Size: 22036
-MD5sum: 33c39ec371a665a5a7d4bafb0d91c203
-SHA1: dd27ede1d1110549027bb4c40a0ed4587b4d99b9
-SHA256: 8c736133661090f84730ec41ec09762272f11ed3f19a1a883027c70ed3bfce10
+Filename: dists/noble/main/binary-arm64/clipshare-server_3.9.1-2noble_arm64.deb
+Size: 22072
+MD5sum: 94c8c1217299c206afdcb81b3be4031f
+SHA1: 082558104e670ae36560eecab24516c7a2557003
+SHA256: e615816a4c6319122c22b6cd0ba25916980cb483928596d7c113c27baef56333
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -103,16 +103,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.9.2-1noble
+Version: 3.9.2-2noble
 Architecture: arm64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 100
 Depends: libc6, libpng16-16t64, libssl3t64, libunistring5, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/noble/main/binary-arm64/clipshare-server_3.9.2-1noble_arm64.deb
-Size: 22116
-MD5sum: aecf35ae9796c75b110a8b8a99d2e211
-SHA1: 02709c3e4ca6598bffe15ad8d6b500f62d0ef3c4
-SHA256: 195ecaf744beb8d3369543cf9c97dc38564f815e58512bb8a51f6617e09043f3
+Filename: dists/noble/main/binary-arm64/clipshare-server_3.9.2-2noble_arm64.deb
+Size: 22144
+MD5sum: 0102dff113e3f84c71ced040553b8dfa
+SHA1: c9f2c9ee8dfe35ca8befa55ad7cf0fbc6fb143a3
+SHA256: c6f97be427a81b0540f162d0e82e552d2a702737dce03399a50941f72f416253
 Section: utils
 Priority: optional
 Description: Share clipboard

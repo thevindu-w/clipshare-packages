@@ -1,14 +1,14 @@
 Package: clipshare-client
-Version: 3.10.0-1jammy
+Version: 3.10.0-2jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 104
 Depends: libc6, libssl3, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
-Filename: dists/jammy/main/binary-amd64/clipshare-client_3.10.0-1jammy_amd64.deb
-Size: 25652
-MD5sum: 5a5da003d56620774acbae29045ac56a
-SHA1: 89ee2acafda7544d88af66a4774d1e63e5be3aad
-SHA256: 86ec6d49799375483a22ffeb2d97e24ba3fd7b44ba985a1bd0ebc2fe2acf2569
+Filename: dists/jammy/main/binary-amd64/clipshare-client_3.10.0-2jammy_amd64.deb
+Size: 25628
+MD5sum: ae6158b52c5891336c4a88171bd67b3b
+SHA1: 73e3115de1252ae063995e5984e9faeb0de10899
+SHA256: 9e13b5be46c9de8e976f71a304471ed5e76e37446dca8444442ab1e574253415
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -17,16 +17,16 @@ Description: Share clipboard
  This package contains the desktop client.
 
 Package: clipshare-client
-Version: 3.11.0-1jammy
+Version: 3.11.0-2jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 108
 Depends: libc6, libssl3, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
-Filename: dists/jammy/main/binary-amd64/clipshare-client_3.11.0-1jammy_amd64.deb
-Size: 26360
-MD5sum: 218a1c2bfe664aacf03ff28289169610
-SHA1: 1b147fe95d49bb5ace9129e84a20989a5db44e3b
-SHA256: 352f500c4c63c427572c14827baf1b21dd09fb51275fde139b24118bee078518
+Filename: dists/jammy/main/binary-amd64/clipshare-client_3.11.0-2jammy_amd64.deb
+Size: 26348
+MD5sum: 602906e3f2e0960347dfec2f2a16aa11
+SHA1: 3dcd031d93b863001c5e5967ba975e69071715ac
+SHA256: 17b119be5468ba985f37d570a79354bd4b4c428d99e3b2648b97a6cfc23464a1
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -35,16 +35,16 @@ Description: Share clipboard
  This package contains the desktop client.
 
 Package: clipshare-client
-Version: 3.11.1-1jammy
+Version: 3.11.1-2jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 108
 Depends: libc6, libssl3, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
-Filename: dists/jammy/main/binary-amd64/clipshare-client_3.11.1-1jammy_amd64.deb
-Size: 26416
-MD5sum: 6144924ffe58a66d6a68043a018635ce
-SHA1: 0913976a582e990284448e0234d9bd7987c4798b
-SHA256: aeb75da5d9e4a0c62ad818a9659972850699baed8c3e1c11768837e8c30d00b4
+Filename: dists/jammy/main/binary-amd64/clipshare-client_3.11.1-2jammy_amd64.deb
+Size: 26384
+MD5sum: 3cb334de4f4f6000f229804e8c6a7bee
+SHA1: 3eafc40a4bd4e256031f92844c56781aa14e5693
+SHA256: cd45e4b1952a217f2ffe66c2289b1c92154cc930ff3d6617359e51a0737382ea
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -53,16 +53,16 @@ Description: Share clipboard
  This package contains the desktop client.
 
 Package: clipshare-client
-Version: 3.12.0-1jammy
+Version: 3.12.0-2jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 108
 Depends: libc6, libssl3, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
-Filename: dists/jammy/main/binary-amd64/clipshare-client_3.12.0-1jammy_amd64.deb
-Size: 26508
-MD5sum: c7f828a2aafc3860494f37ae311ff89d
-SHA1: 5f62748427b6352d8c373246bceee58999929e75
-SHA256: 2add29d6d8bb13c176de60971bd65767ebe1852db45628e6a5b03bdd8706d600
+Filename: dists/jammy/main/binary-amd64/clipshare-client_3.12.0-2jammy_amd64.deb
+Size: 26500
+MD5sum: 78a14eb1f523bb266182a4391bdfd396
+SHA1: 2cedda0687105a89408690ba373d16775897f15a
+SHA256: df3d379cf55c30219429f6545fd4aa5a03f0851368db89617101c129aaa9c928
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -71,16 +71,16 @@ Description: Share clipboard
  This package contains the desktop client.
 
 Package: clipshare-server
-Version: 3.10.0-1jammy
+Version: 3.10.0-2jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 92
 Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/jammy/main/binary-amd64/clipshare-server_3.10.0-1jammy_amd64.deb
+Filename: dists/jammy/main/binary-amd64/clipshare-server_3.10.0-2jammy_amd64.deb
 Size: 23548
-MD5sum: 253f4d5281e7bbefecc47025d3f6346b
-SHA1: 0a0256ecc5d52bb32dfaa5c8d7f45ff617119039
-SHA256: 2b7627a8ea556cd00c821fd77998a4dfd7afd854e79bf041dbe19418c5147d35
+MD5sum: cd84b03ed674b00514792bec9f48f670
+SHA1: bf759670c2709bf15ff174f238131827e9ceb4b5
+SHA256: 9f14745b4f528a78698991cd51c8e6bf09275334c743e4340d02157bd18d17a6
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -88,16 +88,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.11.0-1jammy
+Version: 3.11.0-2jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 96
 Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/jammy/main/binary-amd64/clipshare-server_3.11.0-1jammy_amd64.deb
-Size: 23680
-MD5sum: f14b194b9603e40242fb5353b36d5288
-SHA1: 336e064dacb564cda303251582c62562c0c95f1a
-SHA256: 8663127da2730c38fb82d7f6c45d9a05ad9076177e23805d31d43b08e381db62
+Filename: dists/jammy/main/binary-amd64/clipshare-server_3.11.0-2jammy_amd64.deb
+Size: 23628
+MD5sum: 4bd357dbf89e0c7ae47c31836809135f
+SHA1: 41c0c531232205725e932db7d88dff89a249c60d
+SHA256: 614322bd95aadfc55d53425b5ca46a5aa3f57695a2d236e698255d1b225afe96
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -105,16 +105,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.11.1-1jammy
+Version: 3.11.1-2jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 96
 Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/jammy/main/binary-amd64/clipshare-server_3.11.1-1jammy_amd64.deb
-Size: 23580
-MD5sum: a08cf9cf973221b125de3227b8f6f008
-SHA1: 9d74a5b3447f2e1be913283be4a18418ab73f5fc
-SHA256: 8c31a4c3b3926329bdac0ef35e6a102959b22638adac112b5e41ca4bed02bc7b
+Filename: dists/jammy/main/binary-amd64/clipshare-server_3.11.1-2jammy_amd64.deb
+Size: 23552
+MD5sum: 6dae71eb1368eab1db97e3448a8e33da
+SHA1: a7caf5ed4562607742e2c0c81ad5888a9ccc8db6
+SHA256: 0a41a91a089b7885807aa22829832084508e583d46f1c08706ee104dc20d6270
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -122,33 +122,50 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.8.0-1jammy
-Architecture: amd64
-Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
-Installed-Size: 92
-Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/jammy/main/binary-amd64/clipshare-server_3.8.0-1jammy_amd64.deb
-Size: 23152
-MD5sum: 563a825ce8365d9044d6fe1326484ad9
-SHA1: 56ec5ce50cbe5040e5b6c12c4edd0219d31893a4
-SHA256: 1de1a291359fe706a03c47c4eba8399c97cdbfb9afe3341cbd23cde3939c4dda
-Section: utils
-Priority: optional
-Description: Share clipboard
- This is a simple and lightweight tool to securely share the
- clipboard contents across devices on a LAN (Local Area Network).
-
-Package: clipshare-server
-Version: 3.8.1-1jammy
+Version: 3.8.0-2jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 88
 Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/jammy/main/binary-amd64/clipshare-server_3.8.1-1jammy_amd64.deb
+Filename: dists/jammy/main/binary-amd64/clipshare-server_3.8.0-2jammy_amd64.deb
+Size: 23200
+MD5sum: 6e1193de0b01f262bea03511ccf7d197
+SHA1: c18b272d5f1505a845e51c63c05281866d733019
+SHA256: 4d0cd13878c9911debcca088692092d882b334a07522ba58b6c484a56c47fed8
+Section: utils
+Priority: optional
+Description: Share clipboard
+ This is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+
+Package: clipshare-server
+Version: 3.8.1-2jammy
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 88
+Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/jammy/main/binary-amd64/clipshare-server_3.8.1-2jammy_amd64.deb
+Size: 23120
+MD5sum: 001c30372d654458ec9629a0ca2e6fc5
+SHA1: 5210a5bc61f04810794ba2126a1291f2ef880a0f
+SHA256: 11e424499e3d0cc1b3dfffbfd77211f64560bf08be8908d38ecc1bbfcd41103c
+Section: utils
+Priority: optional
+Description: Share clipboard
+ This is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+
+Package: clipshare-server
+Version: 3.8.2-2jammy
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 88
+Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/jammy/main/binary-amd64/clipshare-server_3.8.2-2jammy_amd64.deb
 Size: 23088
-MD5sum: aab1bd73a594bf0b0a8c0b6377297613
-SHA1: 1e6ed815ab3e7402484d5fbd9ee802613c00ba5b
-SHA256: c1e7de52b8e5100579a974537ef94a6fcdf1364dc3ebc30e9a0af0b61da33e47
+MD5sum: 887f8da25cda5fd46e6a33011813c5d6
+SHA1: 7da7d986cf4541eec80696c8b8c7d0be279cea09
+SHA256: fb77738093279f479a29756ab05a1bcf70b5cdd93b916108e871a33907b48f24
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -156,16 +173,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.8.2-1jammy
+Version: 3.8.3-2jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 88
 Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/jammy/main/binary-amd64/clipshare-server_3.8.2-1jammy_amd64.deb
-Size: 23072
-MD5sum: eb32b40ca27a776b5649a5a9e59a2937
-SHA1: ab9dfd53ed822a6477cf974ae850f9c035b9a7d3
-SHA256: 97ec79825b09707432674d30b39f8a6c7960dd45098f803bf55a6f60a7726a85
+Filename: dists/jammy/main/binary-amd64/clipshare-server_3.8.3-2jammy_amd64.deb
+Size: 23132
+MD5sum: 24626fc2e1f825598540d14e4a058eb2
+SHA1: 874500d09686e17ffd8a2609af297ae6e096fe81
+SHA256: 3157416adaac3bb7f48a2e1a83e51871d8d8c0c1e18d9a95273a16e3e32f4ea4
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -173,16 +190,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.8.3-1jammy
+Version: 3.8.4-2jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 88
 Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/jammy/main/binary-amd64/clipshare-server_3.8.3-1jammy_amd64.deb
-Size: 23060
-MD5sum: 4ad398be1659973057bda133df10441f
-SHA1: 58d3aa68f043309d730d9dab025e72463040ce54
-SHA256: 1c6ef8aa4ca7c7ba25742eb607ca4476c3e7ed3ebab285807db480d7f007462e
+Filename: dists/jammy/main/binary-amd64/clipshare-server_3.8.4-2jammy_amd64.deb
+Size: 23136
+MD5sum: 07ce7599dead2ebaafca78f87b8ef721
+SHA1: c24237c1167ddfaf50ec2821303bc2c3649d1b28
+SHA256: 5bc4d33b30faed00d9e71c21400494f21afa1360db1268f1db73b82bc3de247a
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -190,16 +207,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.8.4-1jammy
+Version: 3.8.5-2jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 88
 Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/jammy/main/binary-amd64/clipshare-server_3.8.4-1jammy_amd64.deb
-Size: 23092
-MD5sum: 082ca0461d20d6b50c38e4d1ef2e8202
-SHA1: c09e01ade085181f557e3a031621931b3996cbd1
-SHA256: c7589896d8a4f9bd6129221517dd2d0436f0c1b9570d14f09598e40fec335e5e
+Filename: dists/jammy/main/binary-amd64/clipshare-server_3.8.5-2jammy_amd64.deb
+Size: 23080
+MD5sum: ac26815870471936baeb1058d284a392
+SHA1: 398eec8ed854efe4928bae7f51c471234f3a950a
+SHA256: 2323c1c8c7631d7518afa138a6a64dee0f525f51e2d3dca04bdcdcff045cbf5b
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -207,16 +224,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.8.5-1jammy
+Version: 3.9.0-2jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 88
 Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/jammy/main/binary-amd64/clipshare-server_3.8.5-1jammy_amd64.deb
-Size: 23056
-MD5sum: b9a02f8b19e63a81af2f8bc62fdfe121
-SHA1: 7287dd6167d26f8c4374a9938a4544cb0ca30a2d
-SHA256: 5784a034ff8f719e934282620e6d3dc33da3c782be831d2649fe68588c90277d
+Filename: dists/jammy/main/binary-amd64/clipshare-server_3.9.0-2jammy_amd64.deb
+Size: 23332
+MD5sum: b8e60e68f98677cc176b3d8ed5dbad45
+SHA1: 3512d12b1e7130e61bcbaa38a071890a11e48e54
+SHA256: 0e565a37ad257b32e761455883c0a7104e04b54f30d33cebae0c445a5baa3185
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -224,16 +241,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.9.0-1jammy
+Version: 3.9.1-2jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 88
 Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/jammy/main/binary-amd64/clipshare-server_3.9.0-1jammy_amd64.deb
-Size: 23188
-MD5sum: 8f467d431942af2aee36d9c00e4f89f5
-SHA1: 02a38fd902bd5afc003ed675270631b2e4fa74ab
-SHA256: 21706e3fff599e04466585f1324489cbce3601d3838096fce69dee2ee3bbd8bd
+Filename: dists/jammy/main/binary-amd64/clipshare-server_3.9.1-2jammy_amd64.deb
+Size: 23420
+MD5sum: 4fd6cf4bd2f44230e383a5f42fecf65e
+SHA1: 79c555b7232a6783e7a8efb864ab0be76798c223
+SHA256: bd1fbaa11ce569be8c8de4ae15810674d11a8f23725437e83aa59a07db091e5a
 Section: utils
 Priority: optional
 Description: Share clipboard
@@ -241,33 +258,16 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.9.1-1jammy
+Version: 3.9.2-2jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 92
 Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/jammy/main/binary-amd64/clipshare-server_3.9.1-1jammy_amd64.deb
-Size: 23472
-MD5sum: f10ff60d320970db8a873e7fa2d28cab
-SHA1: 5b46b1ad00cc282f706a3226d39c7b22782c770a
-SHA256: ceff03dcb212af3fb2954d4d10196c9f55fa3df8ad8ab59e2795ddbe2eabff97
-Section: utils
-Priority: optional
-Description: Share clipboard
- This is a simple and lightweight tool to securely share the
- clipboard contents across devices on a LAN (Local Area Network).
-
-Package: clipshare-server
-Version: 3.9.2-1jammy
-Architecture: amd64
-Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
-Installed-Size: 96
-Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/jammy/main/binary-amd64/clipshare-server_3.9.2-1jammy_amd64.deb
-Size: 23428
-MD5sum: e66b9ec3bafe5b09763e2b5e99d32deb
-SHA1: 1d714d487ee4a57aea5901b2fd94cdb98e8664d6
-SHA256: 1afb84af0e07a41e5e9fd802d003eed7e743181cd49bedd86022d4a0ad74c9cf
+Filename: dists/jammy/main/binary-amd64/clipshare-server_3.9.2-2jammy_amd64.deb
+Size: 23468
+MD5sum: ff360a4272a1cc90eddc9f99a47a71b4
+SHA1: 5f2c529bc407cc025deb3bf67c503110078c82d1
+SHA256: c55cb14ed1832ea03ce8ce91893e1c4895074466b352a7f6a861f50fb1ac044d
 Section: utils
 Priority: optional
 Description: Share clipboard
