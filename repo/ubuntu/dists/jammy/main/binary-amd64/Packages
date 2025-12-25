@@ -70,6 +70,24 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
  This package contains the desktop client.
 
+Package: clipshare-client
+Version: 3.13.0-1jammy
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 108
+Depends: libc6, libssl3, libunistring2, libx11-6, libxmu6, libxfixes3, libmicrohttpd12
+Filename: dists/jammy/main/binary-amd64/clipshare-client_3.13.0-1jammy_amd64.deb
+Size: 26784
+MD5sum: c8e8349bd21156f329886ee49ca3ae66
+SHA1: 3e619cbe65d7b04818a2a2846b4a0227d416595e
+SHA256: 9072b75e235b373d6f894a6d717edaaecd8fdeb59babdb1071539e281d5f26b1
+Section: utils
+Priority: optional
+Description: Share clipboard
+ ClipShare is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+ This package contains the desktop client.
+
 Package: clipshare-server
 Version: 3.10.0-2jammy
 Architecture: amd64

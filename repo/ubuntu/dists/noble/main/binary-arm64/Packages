@@ -34,6 +34,24 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
  This package contains the desktop client.
 
+Package: clipshare-client
+Version: 3.13.0-1noble
+Architecture: arm64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 112
+Depends: libc6, libssl3t64, libunistring5, libx11-6, libxmu6, libxfixes3, libmicrohttpd12t64
+Filename: dists/noble/main/binary-arm64/clipshare-client_3.13.0-1noble_arm64.deb
+Size: 25640
+MD5sum: ccc75c459ae698f787da7ca7295b94de
+SHA1: b8da16d4141b795f786db48490b75e453c976fa4
+SHA256: 9ee35e6b2571f83f2cdf651d2447b90b33a14c12df4a60a1e1d7661c61d8ea37
+Section: utils
+Priority: optional
+Description: Share clipboard
+ ClipShare is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+ This package contains the desktop client.
+
 Package: clipshare-server
 Version: 3.10.0-2noble
 Architecture: arm64
