@@ -140,6 +140,23 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
+Version: 3.11.2-1noble
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 96
+Depends: libc6, libpng16-16t64, libssl3t64, libunistring5, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/noble/main/binary-amd64/clipshare-server_3.11.2-1noble_amd64.deb
+Size: 23748
+MD5sum: 3b05b6ca40c93dad41c2ebde722be98a
+SHA1: bf5bc3e0a8ea8cd936ad50ffb90f2a814a479c6d
+SHA256: cdd9a504f50885423611fb80dc5434956b0d47c06d467a0552ddf1db08a385e8
+Section: utils
+Priority: optional
+Description: Share clipboard
+ This is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+
+Package: clipshare-server
 Version: 3.8.0-2noble
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
