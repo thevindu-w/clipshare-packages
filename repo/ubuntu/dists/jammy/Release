@@ -1,14 +1,14 @@
 Suite: jammy
-Date: Fri, 26 Dec 2025 10:58:26 +0000
+Date: Sat, 10 Jan 2026 17:23:17 +0000
 MD5Sum:
- a6ec615beb81949e4965831e95f366c0            12544 main/binary-amd64/Packages
- 28fc60d9185ce2c59caab40b965394ad             2359 main/binary-amd64/Packages.gz
+ 94d204aa53f45e3ff4e72ffd94383d9a            13278 main/binary-amd64/Packages
+ e1ea3b63af89f77fb1c298faec37552a             2464 main/binary-amd64/Packages.gz
 SHA1:
- 18b8e77264e4a0125401f5d29f3ca027ef2eb25f            12544 main/binary-amd64/Packages
- 68118f72a3598194ce73b6ab9fdaeb76c1ca696b             2359 main/binary-amd64/Packages.gz
+ fac1af3e94a5271844b13e596ba3270f65860d72            13278 main/binary-amd64/Packages
+ 59dddb3eae8c033d79160152daec4282a37dfe2e             2464 main/binary-amd64/Packages.gz
 SHA256:
- f68228f9caf340de7be2268c905f045afee9a7e3f947dd431975967a65b20a60            12544 main/binary-amd64/Packages
- 17c1907395a2e45cfd448285dc3b9122a725a2bb76422c7e1687ed0e4c34a13e             2359 main/binary-amd64/Packages.gz
+ 5e211a54c83fa5bf3e59b856f99a106c6f11b859209d7264a34569e0f17490ab            13278 main/binary-amd64/Packages
+ c0c8fa97f75260500d7abd92f490d33313aeaefff12f900efa00119875a48c00             2464 main/binary-amd64/Packages.gz
 SHA512:
- fdfcb438579ba32d81d0efba4eecfa72468a1de1ae165e387eb8613aea7907dd7da63189fe8721020bb0baca9b7a73d32210fcbbc49557198fbc37e09ace3d7a            12544 main/binary-amd64/Packages
- c87365835bf4cf91c065c97675958a3b9a674add90bb0e80506b16ab12ec015cc9b9ec8ebe48d3ed80b74fba7c7e691138b8e67bbfe3772f429fbdea751fed08             2359 main/binary-amd64/Packages.gz
+ 52382a218b5b0467f43221d09ce816c0b8f998c32e2fd6499804ea539e020e3b041b003da6f9cf294d8d5eb893d078cb9f362938739727b50089df8d834ec8b0            13278 main/binary-amd64/Packages
+ b2e4aa90f2486fdccee622a776f698b631879f9c3d6f5eb180d3459c5bb61a70078c97abe865bc56f0652cef9d5d3c74f88c5f7c63757dd374fa90e005019b44             2464 main/binary-amd64/Packages.gz
