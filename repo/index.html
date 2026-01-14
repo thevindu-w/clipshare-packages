@@ -1,7 +1,7 @@
-<html>
+<html lang="en">
 
 <head>
-    <style type="text/css">
+    <style>
         body {
             margin: 3vw;
             background: white;
@@ -57,7 +57,12 @@
             margin-top: 20pt;
             margin-bottom: 30pt;
         }
+
+        ul.ubuntu-instructions li {
+            margin-bottom: 1em;
+        }
     </style>
+    <title>ClipShare Package Repository</title>
 </head>
 
 <body>
@@ -136,14 +141,15 @@
                 </table>
             </li>
 
-            <ul>
+            <ul class="ubuntu-instructions">
                 <li>For other non-LTS versions, use the last LTS version released before your Ubuntu version.</li>
-                <li>
-                    <p>For other Ubuntu flavors (ex: Kubuntu, Xubuntu, Lubuntu, Ubuntu MATE) and other Ubuntu-based
-                        distributions (ex: Mint, Pop!_OS, Elementry OS, Zorin OS, etc), use the Ubuntu version name,
-                        which your distro is based on. For example, Linux Mint 22.1 <em>Xia</em> is based on Ubuntu
-                        <em>noble</em>.
-                    </p>
+                <li>For other Ubuntu flavors (ex: Kubuntu, Xubuntu, Lubuntu, Ubuntu MATE) and other Ubuntu-based
+                    distributions (ex: Mint, Pop!_OS, Elementry OS, Zorin OS, etc), use the Ubuntu version name,
+                    which your distro is based on. For example, Linux Mint 22.1 <em>Xia</em> is based on Ubuntu
+                    <em>noble</em>.
+                </li>
+                <li>The Ubuntu version name can also be found with the following command.<br>
+                    <pre><code>grep -h UBUNTU_CODENAME /etc/*release 2>/dev/null</code></pre>
                 </li>
             </ul>
 
@@ -195,7 +201,7 @@ sudo tee /etc/apt/sources.list.d/clipshare.list &gt;/dev/null
             </li>
         </ol>
 
-        <h3 id="updating">Updating</h3>
+        <h3>Updating</h3>
         <p>You need to run only the 4<sup>th</sup> step above to update ClipShare.</p>
     </div>
 
@@ -240,7 +246,7 @@ sudo tee /etc/apt/sources.list.d/clipshare.list &gt;/dev/null
             </li>
         </ol>
 
-        <h3 id="updating">Updating</h3>
+        <h3>Updating</h3>
         <p>Run the following command to update ClipShare.</p>
         <ul>
             <li>Server
