@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -70,7 +71,7 @@
     <p>This repository contains <code>deb</code> packages of ClipShare server and desktop client for Ubuntu-based and
         <code>rpm</code> packages for Fedora-based Linux distributions.
     </p>
-    <p>The source of ClipShare is available at,
+    <p>The source of ClipShare is available at,</p>
     <ul>
         <li>Server - <a
                 href="https://github.com/thevindu-w/clip_share_server">https://github.com/thevindu-w/clip_share_server</a>
@@ -79,13 +80,12 @@
                 href="https://github.com/thevindu-w/clip_share_desktop">https://github.com/thevindu-w/clip_share_desktop</a>
         </li>
     </ul>
-    </p>
 
     <blockquote>
         <p><strong>Note:</strong> It&#39;s advised to remove any previous installations of ClipShare (installed by
             other means) to avoid conflicting with this installation. If you have installed ClipShare with the
             installation scripts in the <a href="https://github.com/thevindu-w/clip_share_server/releases">releases</a>,
-            you can remove them by running the following commands,
+            you can remove them by running the following commands,</p>
         <ul>
             <li>Server:
                 <pre><code>systemctl --user disable --now clipshare.service</code></pre>
@@ -94,7 +94,7 @@
                 <pre><code>systemctl --user disable --now clipshare-desktop.service</code></pre>
             </li>
         </ul>
-        and deleting the following files if they exist.</p>
+        <p>and deleting the following files if they exist.</p>
         <ul>
             <li><code>~/.local/bin/clip_share</code></li>
             <li><code>~/.local/bin/clip-share-client</code></li>
@@ -139,19 +139,19 @@
                         <td>bionic</td>
                     </tr>
                 </table>
-            </li>
 
-            <ul class="ubuntu-instructions">
-                <li>For other non-LTS versions, use the last LTS version released before your Ubuntu version.</li>
-                <li>For other Ubuntu flavors (ex: Kubuntu, Xubuntu, Lubuntu, Ubuntu MATE) and other Ubuntu-based
-                    distributions (ex: Mint, Pop!_OS, Elementry OS, Zorin OS, etc), use the Ubuntu version name,
-                    which your distro is based on. For example, Linux Mint 22.1 <em>Xia</em> is based on Ubuntu
-                    <em>noble</em>.
-                </li>
-                <li>The Ubuntu version name can also be found with the following command.<br>
-                    <pre><code>grep -h UBUNTU_CODENAME /etc/*release 2>/dev/null</code></pre>
-                </li>
-            </ul>
+                <ul class="ubuntu-instructions">
+                    <li>For other non-LTS versions, use the last LTS version released before your Ubuntu version.</li>
+                    <li>For other Ubuntu flavors (ex: Kubuntu, Xubuntu, Lubuntu, Ubuntu MATE) and other Ubuntu-based
+                        distributions (ex: Mint, Pop!_OS, Elementry OS, Zorin OS, etc), use the Ubuntu version name,
+                        which your distro is based on. For example, Linux Mint 22.1 <em>Xia</em> is based on Ubuntu
+                        <em>noble</em>.
+                    </li>
+                    <li>The Ubuntu version name can also be found with the following command.<br>
+                        <pre><code>grep -h UBUNTU_CODENAME /etc/*release 2>/dev/null</code></pre>
+                    </li>
+                </ul>
+            </li>
 
             <li>
                 <p><strong>Add the repository as a package source.</strong></p>
