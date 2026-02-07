@@ -175,6 +175,24 @@ Description: Share clipboard
  This package contains the ClipShare server.
 
 Package: clipshare-server
+Version: 3.12.1-1focal
+Architecture: arm64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 88
+Depends: libc6, libpng16-16, libssl1.1, libunistring2, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/focal/main/binary-arm64/clipshare-server_3.12.1-1focal_arm64.deb
+Size: 22500
+MD5sum: fcc01f73aada699c35d765d5ad247a95
+SHA1: cf569f0240f2130b209769c86598ddd8a33fbeb1
+SHA256: 7abf028cada52a0e0920e0e5f3497526c0dfa8d201c1c7d2c3240108572ae5a5
+Section: utils
+Priority: optional
+Description: Share clipboard
+ ClipShare is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+ This package contains the ClipShare server.
+
+Package: clipshare-server
 Version: 3.8.4-2focal
 Architecture: arm64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
