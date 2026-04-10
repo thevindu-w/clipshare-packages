@@ -384,36 +384,38 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
 
 Package: clipshare-server
-Version: 3.9.1-2jammy
+Version: 3.9.1-3jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 88
 Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/jammy/main/binary-amd64/clipshare-server_3.9.1-2jammy_amd64.deb
-Size: 23420
-MD5sum: 4fd6cf4bd2f44230e383a5f42fecf65e
-SHA1: 79c555b7232a6783e7a8efb864ab0be76798c223
-SHA256: bd1fbaa11ce569be8c8de4ae15810674d11a8f23725437e83aa59a07db091e5a
+Filename: dists/jammy/main/binary-amd64/clipshare-server_3.9.1-3jammy_amd64.deb
+Size: 23412
+MD5sum: 41f2d989905b57e77b16d6f023aaf1ac
+SHA1: 36628b76c2b15bb3b4f3c26b126a12b9e281f853
+SHA256: a7680656f4c2873c8518e51b556edfb1653d03e8d3c7501e0f34c9780b77cfbc
 Section: utils
 Priority: optional
 Description: Share clipboard
- This is a simple and lightweight tool to securely share the
+ ClipShare is a simple and lightweight tool to securely share the
  clipboard contents across devices on a LAN (Local Area Network).
+ This package contains the ClipShare server.
 
 Package: clipshare-server
-Version: 3.9.2-2jammy
+Version: 3.9.2-3jammy
 Architecture: amd64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 92
 Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/jammy/main/binary-amd64/clipshare-server_3.9.2-2jammy_amd64.deb
-Size: 23468
-MD5sum: ff360a4272a1cc90eddc9f99a47a71b4
-SHA1: 5f2c529bc407cc025deb3bf67c503110078c82d1
-SHA256: c55cb14ed1832ea03ce8ce91893e1c4895074466b352a7f6a861f50fb1ac044d
+Filename: dists/jammy/main/binary-amd64/clipshare-server_3.9.2-3jammy_amd64.deb
+Size: 23524
+MD5sum: b876bdeeb5090e559952ae6aa837bf49
+SHA1: ae3bd3b205907f9d3d7a7361391b9a68f27b3bac
+SHA256: defad3ce7cfa516eb5e5f0c493f0f8149af34a0b964d97cc9cca917d5689238b
 Section: utils
 Priority: optional
 Description: Share clipboard
- This is a simple and lightweight tool to securely share the
+ ClipShare is a simple and lightweight tool to securely share the
  clipboard contents across devices on a LAN (Local Area Network).
+ This package contains the ClipShare server.
 

@@ -229,36 +229,38 @@ Description: Share clipboard
  This package contains the ClipShare server.
 
 Package: clipshare-server
-Version: 3.9.1-2noble
+Version: 3.9.1-3noble
 Architecture: arm64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 100
 Depends: libc6, libpng16-16t64, libssl3t64, libunistring5, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/noble/main/binary-arm64/clipshare-server_3.9.1-2noble_arm64.deb
-Size: 22072
-MD5sum: 94c8c1217299c206afdcb81b3be4031f
-SHA1: 082558104e670ae36560eecab24516c7a2557003
-SHA256: e615816a4c6319122c22b6cd0ba25916980cb483928596d7c113c27baef56333
+Filename: dists/noble/main/binary-arm64/clipshare-server_3.9.1-3noble_arm64.deb
+Size: 22068
+MD5sum: 1488d7cedc333a068d8b4b0bc178521d
+SHA1: b796df6d5ead6274b2c85cfcbe9966b1cacb1815
+SHA256: 8ed514450365612c54e61d40a4f5e8c2e89863d9af99f97505db2cea1a994b77
 Section: utils
 Priority: optional
 Description: Share clipboard
- This is a simple and lightweight tool to securely share the
+ ClipShare is a simple and lightweight tool to securely share the
  clipboard contents across devices on a LAN (Local Area Network).
+ This package contains the ClipShare server.
 
 Package: clipshare-server
-Version: 3.9.2-2noble
+Version: 3.9.2-3noble
 Architecture: arm64
 Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
 Installed-Size: 100
 Depends: libc6, libpng16-16t64, libssl3t64, libunistring5, libx11-6, libxcb-randr0, libxmu6
-Filename: dists/noble/main/binary-arm64/clipshare-server_3.9.2-2noble_arm64.deb
-Size: 22144
-MD5sum: 0102dff113e3f84c71ced040553b8dfa
-SHA1: c9f2c9ee8dfe35ca8befa55ad7cf0fbc6fb143a3
-SHA256: c6f97be427a81b0540f162d0e82e552d2a702737dce03399a50941f72f416253
+Filename: dists/noble/main/binary-arm64/clipshare-server_3.9.2-3noble_arm64.deb
+Size: 22176
+MD5sum: e4e79df0f928bc249efdef59325ea92e
+SHA1: a420b0adbf2bf3659aedfa5d458b5343362391fe
+SHA256: 6b1b7846a2509cf4614b8b418fcaf4846ef711e0cdc9e609b5d2a377379ffc5c
 Section: utils
 Priority: optional
 Description: Share clipboard
- This is a simple and lightweight tool to securely share the
+ ClipShare is a simple and lightweight tool to securely share the
  clipboard contents across devices on a LAN (Local Area Network).
+ This package contains the ClipShare server.
 
