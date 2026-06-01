@@ -1,22 +1,22 @@
 Suite: focal
-Date: Sat, 09 May 2026 12:25:06 +0000
+Date: Mon, 01 Jun 2026 14:25:47 +0000
 MD5Sum:
- b36f8f4157d337ed59258459b432ab61            19298 main/binary-amd64/Packages
- caaf1a8d783a317f2bd14dfe9ad5b6f1             3345 main/binary-amd64/Packages.gz
- 9f683cb5716b2d66e63bd2db834ee084            15090 main/binary-arm64/Packages
- bb28bae43bb9ee7a9c63020bc4c416c3             2707 main/binary-arm64/Packages.gz
+ 67082193e5c69d30414e707f63f7c391            20032 main/binary-amd64/Packages
+ 29c5a6dd0600e6e07d26fbd7115cc96e             3449 main/binary-amd64/Packages.gz
+ 73ef631703a2fd514a2a14ad44b46f80            15824 main/binary-arm64/Packages
+ fae8bdaa826a14d4e77290d057bf775c             2819 main/binary-arm64/Packages.gz
 SHA1:
- e95ae24de04809c6eb3b5cd008b592aa0e81cd46            19298 main/binary-amd64/Packages
- 031057d6bc3f9f0a53f0a26a3f393997148b29a4             3345 main/binary-amd64/Packages.gz
- 16b05025f0d00f0ed7a1b8c034cbb0b9bec655fb            15090 main/binary-arm64/Packages
- 6fa0656b84a17bfc6a1bf606babf0ea2a1c7bf65             2707 main/binary-arm64/Packages.gz
+ a4f5df05ccb8e374e7313ddc280c154dcc35ee39            20032 main/binary-amd64/Packages
+ cf585353ae964c08291f53749c19357a7bbd59ee             3449 main/binary-amd64/Packages.gz
+ 78396a8f43e060d01f88a95febcb09cc1a5d42eb            15824 main/binary-arm64/Packages
+ c7a130d744dc5a2f30c610952ed157ea28c3eea4             2819 main/binary-arm64/Packages.gz
 SHA256:
- 53f0a0b81ba8b44f027ee024681ddfcd0638cabd9e93d8d60f8e43ae80b9e819            19298 main/binary-amd64/Packages
- 05d288ea2813c839cc9eea59102f1b4485f26e03fa741ac166f51f854d603e99             3345 main/binary-amd64/Packages.gz
- c26bdba8d73bfc2d2e748df2022effc08f96a45efc83d50063170612f3eb347e            15090 main/binary-arm64/Packages
- 0a3ceb0835d0d81c20342d179c0c497d97471ba4ec1edf3fa1ad1149f3ab8d12             2707 main/binary-arm64/Packages.gz
+ 678b76ca9c942c768a5b1f06c559881c7516e1ec851ae53218e1d9216dcfb7ea            20032 main/binary-amd64/Packages
+ d54a641b49e91f85d377dd98b119220312b07f3e57cd998b884490269b9d27b1             3449 main/binary-amd64/Packages.gz
+ 30533c3d9215afc95345670696934bfd9a5853b7fa4019e3fa71198c09ade639            15824 main/binary-arm64/Packages
+ 3c2bc6a2b77b1609570a67f0ab7c2f1e31593cd610ce9241ce3232d64120cc54             2819 main/binary-arm64/Packages.gz
 SHA512:
- 14586757fed30a897664c4aa93ca32aa3d1db78ff381b98fbb8dd7b23e57f1c20eb2a665c7ec650c38c2b3df3c7abc9f0add9e4ba4eb77e570107a16234fa7ef            19298 main/binary-amd64/Packages
- 265d6f96029e9a38bcf6e831215616307ea3b7b349ea04855555aae16b72a095b7504670509e7973ecb5313d0e8d3fbd4b72fd6e227934f419fb8dc82e42cb05             3345 main/binary-amd64/Packages.gz
- f2cd46373135dc4f6d1faff830f517f0d25444e76e4426873e2935968d1b4d92de0f5e068671ee2f54a8a7b89344ab850fab49bdd037a5622235ef76a92acf8d            15090 main/binary-arm64/Packages
- 0820b0b5aef3b43cf1191e0243bba46d0c972c0126a8f9995eaa6925b1abad3e77cf06dd0cddeaa178f46d9a7f0fc991b27f570f498e94e898003a3f323e636f             2707 main/binary-arm64/Packages.gz
+ a0721d4f4733c64f67d70f417bf739555a1b1e9817b6447ae11c5e25bfd0ac4cef32419bb46f18983437e733af1accd0d5325a9d8c0cc6c6877dca16cee4ee72            20032 main/binary-amd64/Packages
+ e2309ae9622ca162f3833b607c23a8b0619cbfa259238e8d60f3204532631de7e5a777ec9feefd1e6792f545712303e94545df095cf0bfcde5ff1e9625645fd4             3449 main/binary-amd64/Packages.gz
+ 1f0aeee75b893a819c400af436a4f01b97d32d47ffa8adbed12237261ac5be904d95f0b7efa5ab591d0d7133adf0ad504675210f2cf3141a00a9834db45b5f2e            15824 main/binary-arm64/Packages
+ e003e612777171ff87ca4f7cc6a96c4fe75db32f945dee53d6eb24c230e5e8be862e53382f3cb17f65d4c73a82512a386addf9042a87d077985b1a6b493cb8f3             2819 main/binary-arm64/Packages.gz
