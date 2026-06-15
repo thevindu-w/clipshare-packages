@@ -1,14 +1,14 @@
 Suite: bionic
-Date: Sat, 13 Jun 2026 09:52:21 +0000
+Date: Mon, 15 Jun 2026 16:33:58 +0000
 MD5Sum:
- 1f1a81970c0b44b9632494c62289f391            20853 main/binary-amd64/Packages
- df3c7f7e307fa94807c8e18af7749e75             3546 main/binary-amd64/Packages.gz
+ 657e6421c873578ac6bb4dbce5c244ce            21590 main/binary-amd64/Packages
+ 8ba0bef9dbfd86fd0b3d5b9fa5fd505d             3661 main/binary-amd64/Packages.gz
 SHA1:
- f63173882896956588b081dcaba025d27fb372f2            20853 main/binary-amd64/Packages
- da3a0127125de9041a92fb02d09b1ce73158bf89             3546 main/binary-amd64/Packages.gz
+ 8d5fcd3eb11db6da679c94afd7d4af007fe94cb9            21590 main/binary-amd64/Packages
+ fa66e17c60e1f496dc18b25998bc479317d64e87             3661 main/binary-amd64/Packages.gz
 SHA256:
- 6368fb6046628c9fd70d953809222d3654d982a13a17b6d157421dadaf3ddb52            20853 main/binary-amd64/Packages
- ef5419a42baa8ea3db2905f0ad2302228ac64be3ec9d54d3f11df5ec9f5c515b             3546 main/binary-amd64/Packages.gz
+ 428451cca5d73fbf436dbfe1852a25576a4cdc6d456d9a39228145e073a36c3d            21590 main/binary-amd64/Packages
+ 61cadccbe96d07e092b8e46c64a57789c043136493c703524fc7653b8f67c9bf             3661 main/binary-amd64/Packages.gz
 SHA512:
- f6286012303a1b2eaa9c695cdd131e8caa99c6119b7960efd7b90384ede136a02574dc9c48a6a107ae24385b5c6ba2f4ce3018b9b372114b78dde1e55bc95964            20853 main/binary-amd64/Packages
- c99b01c2d9f6ec16df7524dbd4ccef4237739ddef08ef41672160064432b5b4f1488a1edb1a40da106a9f861276caa52d4b40b8973c7b56ed45e0b0110bc0b6e             3546 main/binary-amd64/Packages.gz
+ 609a66096c02866e03701d00fc34faeeb300c917659373e64d04c1ff1a028dfd7583cd1dbee8489d347b350ee7fefc3b3f7aae87afbbac6122bec64c61b43c00            21590 main/binary-amd64/Packages
+ 304a4179f847036459778079282794f4a0f549774049faea2043227c2ce7352709663c24348b05fd9b34e88daa1afcb4e007793f7b15ea06397d0955c1456c9d             3661 main/binary-amd64/Packages.gz
