@@ -1,0 +1,18 @@
+Package: clipshare-server
+Version: 4.3.0-1resolute
+Architecture: arm64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 100
+Depends: libc6, libpng16-16t64, libssl3t64, libunistring5, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/resolute/main/binary-arm64/clipshare-server_4.3.0-1resolute_arm64.deb
+Size: 25928
+MD5sum: a9cadbb80a33eb379f617ac2b1ec4ae5
+SHA1: b4b6743fc12c4b6c966a4f393f897be4ef06c0ae
+SHA256: a76075ac989bd9c561948858d5b174bb6c57d4f07ad0feb69619c7388588a053
+Section: utils
+Priority: optional
+Description: Share clipboard
+ ClipShare is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+ This package contains the ClipShare server.
+

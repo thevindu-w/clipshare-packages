@@ -1,0 +1,18 @@
+Package: clipshare-server
+Version: 4.3.0-1jammy
+Architecture: arm64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 100
+Depends: libc6, libpng16-16, libssl3, libunistring2, libx11-6, libxcb-randr0, libxmu6
+Filename: dists/jammy/main/binary-arm64/clipshare-server_4.3.0-1jammy_arm64.deb
+Size: 25988
+MD5sum: 5ead31c789f05c7165fe68dd16256c07
+SHA1: 3f624a9a6e402387f927c71b78a0798b5677038c
+SHA256: c5426c3745f0b4d309bfc2ea4e8cb807a16d5d12073a1227122f771237d1ab78
+Section: utils
+Priority: optional
+Description: Share clipboard
+ ClipShare is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+ This package contains the ClipShare server.
+
