@@ -106,6 +106,24 @@ Description: Share clipboard
  clipboard contents across devices on a LAN (Local Area Network).
  This package contains the desktop client.
 
+Package: clipshare-client
+Version: 4.5.0-1resolute
+Architecture: amd64
+Maintainer: Thevindu Wijesekera <thevinduwijesekera99@gmail.com>
+Installed-Size: 120
+Depends: libc6, libssl3t64, libunistring5, libx11-6, libxmu6, libxfixes3, libmicrohttpd12t64
+Filename: dists/resolute/main/binary-amd64/clipshare-client_4.5.0-1resolute_amd64.deb
+Size: 32988
+MD5sum: cf76ebb4d15b3ad3d1e972e11517a812
+SHA1: 8e68b23bbe123fb4fd4843fafb9e855c207a406f
+SHA256: 77cd40b7e80fc38a0a4a4b99a0622b8109c3a2caba8e90ece3c58173990ea999
+Section: utils
+Priority: optional
+Description: Share clipboard
+ ClipShare is a simple and lightweight tool to securely share the
+ clipboard contents across devices on a LAN (Local Area Network).
+ This package contains the desktop client.
+
 Package: clipshare-server
 Version: 4.1.1-1resolute
 Architecture: amd64
